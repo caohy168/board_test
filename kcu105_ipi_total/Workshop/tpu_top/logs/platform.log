@@ -1,0 +1,1692 @@
+TRACE::2019-12-10.16:33:11::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:11::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:11::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:13::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:13::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:13::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:13::SCWPlatform::Do not have an existing db opened. 
+TRACE::2019-12-10.16:33:14::SCWPlatform::Opened new HwDB with name tpu_top_0
+TRACE::2019-12-10.16:33:14::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2019-12-10.16:33:14::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top"
+		}]
+}
+TRACE::2019-12-10.16:33:14::SCWPlatform::Boot application domains not present, creating them
+TRACE::2019-12-10.16:33:14::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2019-12-10.16:33:14::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top"
+		}]
+}
+TRACE::2019-12-10.16:33:14::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top"
+		}]
+}
+TRACE::2019-12-10.16:33:14::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:14::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:14::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:14::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:14::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:14::SCWDomain::checking for install qemu data   : 
+TRACE::2019-12-10.16:33:14::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:14::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:14::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:14::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:14::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:14::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:14::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:14::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:14::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:14::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:14::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:14::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2019-12-10.16:33:14::SCWMssOS::No sw design opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:14::SCWMssOS::mss does not exists at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:14::SCWMssOS::Creating sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:14::SCWMssOS::Adding the swdes entry, created swdb C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss with des name C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:14::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:14::SCWMssOS::Writing mss at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:14::SCWMssOS::Completed writing the mss file at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp
+TRACE::2019-12-10.16:33:14::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2019-12-10.16:33:14::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2019-12-10.16:33:14::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:14::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:15::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:15::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2019-12-10.16:33:15::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:15::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:15::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:15::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2019-12-10.16:33:15::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:15::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:15::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:15::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2019-12-10.16:33:15::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:15::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"",
+					"compatibleApp":	"lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.1"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2019-12-10.16:33:15::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:15::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:15::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:15::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2019-12-10.16:33:15::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:15::SCWMssOS::Completed writing the mss file at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp
+TRACE::2019-12-10.16:33:15::SCWMssOS::Forcing BSP Sources regeneration.
+LOG::2019-12-10.16:33:18::SCWPlatform::Started generating the artifacts platform tpu_top
+TRACE::2019-12-10.16:33:18::SCWPlatform::Sanity checking of platform is completed
+LOG::2019-12-10.16:33:18::SCWPlatform::Started generating the artifacts for system configuration tpu_top
+LOG::2019-12-10.16:33:18::SCWSystem::Checking the domain standalone_domain
+LOG::2019-12-10.16:33:18::SCWSystem::Not a boot domain 
+LOG::2019-12-10.16:33:18::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2019-12-10.16:33:18::SCWDomain::Generating domain artifcats
+TRACE::2019-12-10.16:33:18::SCWMssOS::Generating standalone artifcats
+TRACE::2019-12-10.16:33:18::SCWMssOS:: Copying the user libraries. 
+TRACE::2019-12-10.16:33:18::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:18::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:18::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss||
+
+KEYINFO::2019-12-10.16:33:18::SCWMssOS::Could not open the swdb for C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+KEYINFO::2019-12-10.16:33:18::SCWMssOS::Could not open the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2019-12-10.16:33:18::SCWMssOS::Cleared the swdb table entry
+TRACE::2019-12-10.16:33:18::SCWMssOS::No sw design opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWMssOS::mss exists loading the mss file  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWMssOS::Opened the sw design from mss  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWMssOS::Adding the swdes entry C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2019-12-10.16:33:18::SCWMssOS::updating the scw layer about changes
+TRACE::2019-12-10.16:33:18::SCWMssOS::Opened the sw design.  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWMssOS::Completed writing the mss file at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp
+TRACE::2019-12-10.16:33:18::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2019-12-10.16:33:18::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2019-12-10.16:33:18::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2019-12-10.16:33:18::SCWMssOS::skipping the bsp build ... 
+TRACE::2019-12-10.16:33:18::SCWMssOS::Copying to export directory.
+TRACE::2019-12-10.16:33:18::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2019-12-10.16:33:18::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2019-12-10.16:33:18::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2019-12-10.16:33:18::SCWSystem::Completed Processing the sysconfig tpu_top
+LOG::2019-12-10.16:33:18::SCWPlatform::Completed generating the artifacts for system configuration tpu_top
+TRACE::2019-12-10.16:33:18::SCWPlatform::Started preparing the platform 
+TRACE::2019-12-10.16:33:18::SCWSystem::Writing the bif file for system config tpu_top
+TRACE::2019-12-10.16:33:18::SCWSystem::dir created 
+TRACE::2019-12-10.16:33:18::SCWSystem::Writing the bif 
+TRACE::2019-12-10.16:33:18::SCWPlatform::Started writing the spfm file 
+TRACE::2019-12-10.16:33:18::SCWPlatform::Started writing the xpfm file 
+TRACE::2019-12-10.16:33:18::SCWPlatform::Completed generating the platform
+TRACE::2019-12-10.16:33:18::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:18::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:18::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:18::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:18::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:18::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:18::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:18::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:18::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:18::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:18::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:18::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4e037987c68a533c15632774b1dcf79e",
+					"compatibleApp":	"lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.1"],
+					"libOptions":	{
+						"lwip211":	{
+							"dhcp_does_arp_check":	"true",
+							"lwip_dhcp":	"true",
+							"pbuf_pool_size":	"2048",
+							"libOptionNames":	["dhcp_does_arp_check", "lwip_dhcp", "pbuf_pool_size"]
+						},
+						"libsContainingOptions":	["lwip211"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2019-12-10.16:33:18::SCWPlatform::updated the xpfm file.
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4e037987c68a533c15632774b1dcf79e",
+					"compatibleApp":	"lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.1"],
+					"libOptions":	{
+						"lwip211":	{
+							"dhcp_does_arp_check":	"true",
+							"lwip_dhcp":	"true",
+							"pbuf_pool_size":	"2048",
+							"libOptionNames":	["dhcp_does_arp_check", "lwip_dhcp", "pbuf_pool_size"]
+						},
+						"libsContainingOptions":	["lwip211"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4e037987c68a533c15632774b1dcf79e",
+					"compatibleApp":	"lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.1"],
+					"libOptions":	{
+						"lwip211":	{
+							"dhcp_does_arp_check":	"true",
+							"lwip_dhcp":	"true",
+							"pbuf_pool_size":	"2048",
+							"libOptionNames":	["dhcp_does_arp_check", "lwip_dhcp", "pbuf_pool_size"]
+						},
+						"libsContainingOptions":	["lwip211"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2019-12-10.16:33:19::SCWPlatform::Started generating the artifacts platform tpu_top
+TRACE::2019-12-10.16:33:19::SCWPlatform::Sanity checking of platform is completed
+LOG::2019-12-10.16:33:19::SCWPlatform::Started generating the artifacts for system configuration tpu_top
+LOG::2019-12-10.16:33:19::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2019-12-10.16:33:19::SCWDomain::Generating domain artifcats
+TRACE::2019-12-10.16:33:19::SCWMssOS::Generating standalone artifcats
+TRACE::2019-12-10.16:33:19::SCWMssOS:: Copying the user libraries. 
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::Completed writing the mss file at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp
+TRACE::2019-12-10.16:33:19::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:19::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2019-12-10.16:33:19::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2019-12-10.16:33:19::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2019-12-10.16:33:19::SCWMssOS::skipping the bsp build ... 
+TRACE::2019-12-10.16:33:19::SCWMssOS::Copying to export directory.
+TRACE::2019-12-10.16:33:19::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2019-12-10.16:33:19::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2019-12-10.16:33:19::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2019-12-10.16:33:19::SCWSystem::Completed Processing the sysconfig tpu_top
+LOG::2019-12-10.16:33:19::SCWPlatform::Completed generating the artifacts for system configuration tpu_top
+TRACE::2019-12-10.16:33:19::SCWPlatform::Started preparing the platform 
+TRACE::2019-12-10.16:33:19::SCWSystem::Writing the bif file for system config tpu_top
+TRACE::2019-12-10.16:33:19::SCWSystem::dir created 
+TRACE::2019-12-10.16:33:19::SCWSystem::Writing the bif 
+TRACE::2019-12-10.16:33:19::SCWPlatform::Started writing the spfm file 
+TRACE::2019-12-10.16:33:19::SCWPlatform::Started writing the xpfm file 
+TRACE::2019-12-10.16:33:19::SCWPlatform::Completed generating the platform
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:19::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:20::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:20::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:20::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:20::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:20::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:20::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:20::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:20::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:20::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:20::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:20::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:20::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:20::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:20::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:20::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:20::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:20::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:20::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:33:20::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:33:20::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:33:20::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:33:20::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:33:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:33:20::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:20::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:33:20::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:33:20::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4e037987c68a533c15632774b1dcf79e",
+					"compatibleApp":	"lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.1"],
+					"libOptions":	{
+						"lwip211":	{
+							"dhcp_does_arp_check":	"true",
+							"lwip_dhcp":	"true",
+							"pbuf_pool_size":	"2048",
+							"libOptionNames":	["dhcp_does_arp_check", "lwip_dhcp", "pbuf_pool_size"]
+						},
+						"libsContainingOptions":	["lwip211"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2019-12-10.16:33:20::SCWPlatform::updated the xpfm file.
+TRACE::2019-12-10.16:34:02::SCWMssOS::cleaning the bsp 
+TRACE::2019-12-10.16:34:02::SCWMssOS::System Command Ran  C: & cd  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp & make clean 
+TRACE::2019-12-10.16:34:03::SCWMssOS::make -C microblaze_0/libsrc/axidma_v9_10/src -s clean 
+
+TRACE::2019-12-10.16:34:03::SCWMssOS::make -C microblaze_0/libsrc/axiethernet_v5_9/src -s clean 
+
+TRACE::2019-12-10.16:34:03::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s clean 
+
+TRACE::2019-12-10.16:34:03::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s clean 
+
+TRACE::2019-12-10.16:34:03::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_5/src -s clean 
+
+TRACE::2019-12-10.16:34:03::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_5/src -s clean 
+
+TRACE::2019-12-10.16:34:03::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_10/src -s clean 
+
+TRACE::2019-12-10.16:34:03::SCWMssOS::make -C microblaze_0/libsrc/lwip211_v1_1/src -s clean 
+
+ERROR::2019-12-10.16:34:03::SCWSystem::Error in Processing the domain standalone_domain
+LOG::2019-12-10.16:34:05::SCWPlatform::Started generating the artifacts platform tpu_top
+TRACE::2019-12-10.16:34:05::SCWPlatform::Sanity checking of platform is completed
+LOG::2019-12-10.16:34:05::SCWPlatform::Started generating the artifacts for system configuration tpu_top
+LOG::2019-12-10.16:34:05::SCWSystem::Checking the domain standalone_domain
+LOG::2019-12-10.16:34:05::SCWSystem::Not a boot domain 
+LOG::2019-12-10.16:34:05::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2019-12-10.16:34:05::SCWDomain::Generating domain artifcats
+TRACE::2019-12-10.16:34:05::SCWMssOS::Generating standalone artifcats
+TRACE::2019-12-10.16:34:05::SCWMssOS:: Copying the user libraries. 
+TRACE::2019-12-10.16:34:05::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:05::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:05::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:05::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:34:05::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:05::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:34:05::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:34:05::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:34:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:34:05::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:34:05::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:05::SCWMssOS::Completed writing the mss file at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp
+TRACE::2019-12-10.16:34:05::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:05::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2019-12-10.16:34:05::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2019-12-10.16:34:05::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2019-12-10.16:34:05::SCWMssOS::doing bsp build ... 
+TRACE::2019-12-10.16:34:05::SCWMssOS::System Command Ran  C: & cd  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp & make 
+TRACE::2019-12-10.16:34:05::SCWMssOS::"Running Make include in microblaze_0/libsrc/axidma_v9_10/src"
+
+TRACE::2019-12-10.16:34:05::SCWMssOS::make -C microblaze_0/libsrc/axidma_v9_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2019-12-10.16:34:05::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2019-12-10.16:34:05::SCWMssOS::ll -Wextra"
+
+TRACE::2019-12-10.16:34:05::SCWMssOS::"Running Make include in microblaze_0/libsrc/axiethernet_v5_9/src"
+
+TRACE::2019-12-10.16:34:05::SCWMssOS::make -C microblaze_0/libsrc/axiethernet_v5_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2019-12-10.16:34:05::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2019-12-10.16:34:05::SCWMssOS:: -Wall -Wextra"
+
+TRACE::2019-12-10.16:34:05::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2019-12-10.16:34:05::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2019-12-10.16:34:05::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2019-12-10.16:34:05::SCWMssOS::-Wextra"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2019-12-10.16:34:06::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2019-12-10.16:34:06::SCWMssOS::-Wextra"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2019-12-10.16:34:06::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2019-12-10.16:34:06::SCWMssOS::-Wextra"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::"Running Make include in microblaze_0/libsrc/iic_v3_5/src"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2019-12-10.16:34:06::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2019-12-10.16:34:06::SCWMssOS::Wextra"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_10/src"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2019-12-10.16:34:06::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2019-12-10.16:34:06::SCWMssOS:: -Wextra"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::"Running Make include in microblaze_0/libsrc/lwip211_v1_1/src"
+
+TRACE::2019-12-10.16:34:06::SCWMssOS::make -C microblaze_0/libsrc/lwip211_v1_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2019-12-10.16:34:06::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2019-12-10.16:34:06::SCWMssOS::ll -Wextra"
+
+TRACE::2019-12-10.16:34:07::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_5/src"
+
+TRACE::2019-12-10.16:34:07::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2019-12-10.16:34:07::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2019-12-10.16:34:07::SCWMssOS::Wextra"
+
+TRACE::2019-12-10.16:34:07::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2019-12-10.16:34:07::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2019-12-10.16:34:07::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2019-12-10.16:34:07::SCWMssOS::-Wall -Wextra"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::"Running Make include in microblaze_0/libsrc/sysmon_v7_5/src"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::make -C microblaze_0/libsrc/sysmon_v7_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2019-12-10.16:34:08::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2019-12-10.16:34:08::SCWMssOS::l -Wextra"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_5/src"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2019-12-10.16:34:08::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2019-12-10.16:34:08::SCWMssOS::l -Wextra"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2019-12-10.16:34:08::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2019-12-10.16:34:08::SCWMssOS::all -Wextra"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartns550_v3_5/src"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::make -C microblaze_0/libsrc/uartns550_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2019-12-10.16:34:08::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2019-12-10.16:34:08::SCWMssOS::Wall -Wextra"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::"Running Make include in microblaze_0/libsrc/video_common_v4_8/src"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::make -C microblaze_0/libsrc/video_common_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" 
+TRACE::2019-12-10.16:34:08::SCWMssOS::"COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-section
+TRACE::2019-12-10.16:34:08::SCWMssOS::s -Wall -Wextra"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::"Running Make include in microblaze_0/libsrc/v_tpg_v8_1/src"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::make -C microblaze_0/libsrc/v_tpg_v8_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2019-12-10.16:34:08::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2019-12-10.16:34:08::SCWMssOS:: -Wextra"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::"Running Make libs in microblaze_0/libsrc/axidma_v9_10/src"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::make -C microblaze_0/libsrc/axidma_v9_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2019-12-10.16:34:08::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2019-12-10.16:34:08::SCWMssOS::-Wextra"
+
+TRACE::2019-12-10.16:34:08::SCWMssOS::"Compiling axidma"
+
+TRACE::2019-12-10.16:34:09::SCWMssOS::"Running Make libs in microblaze_0/libsrc/axiethernet_v5_9/src"
+
+TRACE::2019-12-10.16:34:09::SCWMssOS::make -C microblaze_0/libsrc/axiethernet_v5_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2019-12-10.16:34:10::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2019-12-10.16:34:10::SCWMssOS::all -Wextra"
+
+TRACE::2019-12-10.16:34:10::SCWMssOS::"Compiling axiethernet"
+
+TRACE::2019-12-10.16:34:11::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2019-12-10.16:34:11::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2019-12-10.16:34:11::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2019-12-10.16:34:11::SCWMssOS::xtra"
+
+TRACE::2019-12-10.16:34:11::SCWMssOS::"Compiling bram"
+
+TRACE::2019-12-10.16:34:11::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2019-12-10.16:34:11::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2019-12-10.16:34:11::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2019-12-10.16:34:11::SCWMssOS::xtra"
+
+TRACE::2019-12-10.16:34:11::SCWMssOS::"Compiling cpu"
+
+TRACE::2019-12-10.16:34:12::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2019-12-10.16:34:12::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2019-12-10.16:34:12::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2019-12-10.16:34:12::SCWMssOS::xtra"
+
+TRACE::2019-12-10.16:34:12::SCWMssOS::"Compiling gpio"
+
+TRACE::2019-12-10.16:34:13::SCWMssOS::"Running Make libs in microblaze_0/libsrc/iic_v3_5/src"
+
+TRACE::2019-12-10.16:34:13::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2019-12-10.16:34:13::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wex
+TRACE::2019-12-10.16:34:13::SCWMssOS::tra"
+
+TRACE::2019-12-10.16:34:13::SCWMssOS::"Compiling iic"
+
+TRACE::2019-12-10.16:34:14::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_10/src"
+
+TRACE::2019-12-10.16:34:14::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2019-12-10.16:34:14::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2019-12-10.16:34:14::SCWMssOS::extra"
+
+TRACE::2019-12-10.16:34:14::SCWMssOS::"Compiling intc"
+
+TRACE::2019-12-10.16:34:15::SCWMssOS::"Running Make libs in microblaze_0/libsrc/lwip211_v1_1/src"
+
+TRACE::2019-12-10.16:34:15::SCWMssOS::make -C microblaze_0/libsrc/lwip211_v1_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2019-12-10.16:34:15::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2019-12-10.16:34:15::SCWMssOS::-Wextra"
+
+TRACE::2019-12-10.16:34:15::SCWMssOS::"Compiling lwip src and adapter files"
+
+TRACE::2019-12-10.16:34:23::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_5/src"
+
+TRACE::2019-12-10.16:34:23::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2019-12-10.16:34:23::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wex
+TRACE::2019-12-10.16:34:23::SCWMssOS::tra"
+
+TRACE::2019-12-10.16:34:23::SCWMssOS::"Compiling spi"
+
+TRACE::2019-12-10.16:34:24::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2019-12-10.16:34:24::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2019-12-10.16:34:24::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2019-12-10.16:34:24::SCWMssOS::ll -Wextra"
+
+TRACE::2019-12-10.16:34:24::SCWMssOS::"Compiling standalone";
+
+TRACE::2019-12-10.16:34:28::SCWMssOS::"Running Make libs in microblaze_0/libsrc/sysmon_v7_5/src"
+
+TRACE::2019-12-10.16:34:28::SCWMssOS::make -C microblaze_0/libsrc/sysmon_v7_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2019-12-10.16:34:28::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2019-12-10.16:34:28::SCWMssOS::Wextra"
+
+TRACE::2019-12-10.16:34:28::SCWMssOS::"Compiling sysmon"
+
+TRACE::2019-12-10.16:34:29::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_5/src"
+
+TRACE::2019-12-10.16:34:29::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2019-12-10.16:34:29::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2019-12-10.16:34:29::SCWMssOS::Wextra"
+
+TRACE::2019-12-10.16:34:29::SCWMssOS::"Compiling tmrctr"
+
+TRACE::2019-12-10.16:34:30::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2019-12-10.16:34:30::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2019-12-10.16:34:30::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2019-12-10.16:34:30::SCWMssOS:: -Wextra"
+
+TRACE::2019-12-10.16:34:30::SCWMssOS::"Compiling uartlite"
+
+TRACE::2019-12-10.16:34:31::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartns550_v3_5/src"
+
+TRACE::2019-12-10.16:34:31::SCWMssOS::make -C microblaze_0/libsrc/uartns550_v3_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2019-12-10.16:34:31::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2019-12-10.16:34:31::SCWMssOS::l -Wextra"
+
+TRACE::2019-12-10.16:34:31::SCWMssOS::"Compiling uartns550"
+
+TRACE::2019-12-10.16:34:33::SCWMssOS::"Running Make libs in microblaze_0/libsrc/video_common_v4_8/src"
+
+TRACE::2019-12-10.16:34:33::SCWMssOS::make -C microblaze_0/libsrc/video_common_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2019-12-10.16:34:33::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2019-12-10.16:34:33::SCWMssOS::Wall -Wextra"
+
+TRACE::2019-12-10.16:34:33::SCWMssOS::"Compiling video_common"
+
+TRACE::2019-12-10.16:34:34::SCWMssOS::"Running Make libs in microblaze_0/libsrc/v_tpg_v8_1/src"
+
+TRACE::2019-12-10.16:34:34::SCWMssOS::make -C microblaze_0/libsrc/v_tpg_v8_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2019-12-10.16:34:34::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2019-12-10.16:34:34::SCWMssOS::extra"
+
+TRACE::2019-12-10.16:34:34::SCWMssOS::"Compiling v_tpg"
+
+TRACE::2019-12-10.16:34:35::SCWMssOS::'Finished building libraries'
+
+TRACE::2019-12-10.16:34:35::SCWMssOS::Copying to export directory.
+TRACE::2019-12-10.16:34:36::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2019-12-10.16:34:36::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2019-12-10.16:34:36::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2019-12-10.16:34:36::SCWSystem::Completed Processing the sysconfig tpu_top
+LOG::2019-12-10.16:34:36::SCWPlatform::Completed generating the artifacts for system configuration tpu_top
+TRACE::2019-12-10.16:34:36::SCWPlatform::Started preparing the platform 
+TRACE::2019-12-10.16:34:36::SCWSystem::Writing the bif file for system config tpu_top
+TRACE::2019-12-10.16:34:36::SCWSystem::dir created 
+TRACE::2019-12-10.16:34:36::SCWSystem::Writing the bif 
+TRACE::2019-12-10.16:34:36::SCWPlatform::Started writing the spfm file 
+TRACE::2019-12-10.16:34:36::SCWPlatform::Started writing the xpfm file 
+TRACE::2019-12-10.16:34:36::SCWPlatform::Completed generating the platform
+TRACE::2019-12-10.16:34:36::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:34:36::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:34:36::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:36::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:34:36::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:36::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:34:36::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:34:36::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:36::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:34:36::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:36::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:34:36::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:34:36::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:36::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:34:36::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:36::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4e037987c68a533c15632774b1dcf79e",
+					"compatibleApp":	"lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.1"],
+					"libOptions":	{
+						"lwip211":	{
+							"dhcp_does_arp_check":	"true",
+							"lwip_dhcp":	"true",
+							"pbuf_pool_size":	"2048",
+							"libOptionNames":	["dhcp_does_arp_check", "lwip_dhcp", "pbuf_pool_size"]
+						},
+						"libsContainingOptions":	["lwip211"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2019-12-10.16:34:36::SCWPlatform::updated the xpfm file.
+TRACE::2019-12-10.16:34:36::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA given C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform::DSA directory C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2019-12-10.16:34:36::SCWPlatform:: Platform Path C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2019-12-10.16:34:36::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Trying to set the existing hwdb with name tpu_top_0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Opened existing hwdb tpu_top_0
+TRACE::2019-12-10.16:34:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-12-10.16:34:36::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2019-12-10.16:34:36::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2019-12-10.16:34:36::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:16::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:16::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:16::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:18::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:18::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:18::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:18::SCWPlatform::Do not have an existing db opened. 
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened new HwDB with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWReader::Active system found as  tpu_top
+TRACE::2020-05-27.13:43:19::SCWReader::Handling sysconfig tpu_top
+TRACE::2020-05-27.13:43:19::SCWDomain::checking for install qemu data   : 
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2020-05-27.13:43:19::SCWMssOS::No sw design opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::mss exists loading the mss file  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::Opened the sw design from mss  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::Adding the swdes entry C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2020-05-27.13:43:19::SCWMssOS::updating the scw layer about changes
+TRACE::2020-05-27.13:43:19::SCWMssOS::Opened the sw design.  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS:: library already available in sw design:  lwip211:1.1
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2020-05-27.13:43:19::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWReader::No isolation master present  
+LOG::2020-05-27.13:43:19::SCWPlatform::Started generating the artifacts platform tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-05-27.13:43:19::SCWPlatform::Started generating the artifacts for system configuration tpu_top
+LOG::2020-05-27.13:43:19::SCWSystem::Checking the domain standalone_domain
+LOG::2020-05-27.13:43:19::SCWSystem::Not a boot domain 
+LOG::2020-05-27.13:43:19::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2020-05-27.13:43:19::SCWDomain::Generating domain artifcats
+TRACE::2020-05-27.13:43:19::SCWMssOS::Generating standalone artifcats
+TRACE::2020-05-27.13:43:19::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:19::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:19::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:19::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:19::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::Completed writing the mss file at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp
+TRACE::2020-05-27.13:43:19::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:19::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-05-27.13:43:19::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-05-27.13:43:19::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2020-05-27.13:43:19::SCWMssOS::doing bsp build ... 
+TRACE::2020-05-27.13:43:19::SCWMssOS::System Command Ran  C: & cd  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp & make 
+TRACE::2020-05-27.13:43:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/axidma_v9_10/src"
+
+TRACE::2020-05-27.13:43:20::SCWMssOS::make -C microblaze_0/libsrc/axidma_v9_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2020-05-27.13:43:20::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2020-05-27.13:43:20::SCWMssOS::ll -Wextra"
+
+TRACE::2020-05-27.13:43:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/axiethernet_v5_9/src"
+
+TRACE::2020-05-27.13:43:20::SCWMssOS::make -C microblaze_0/libsrc/axiethernet_v5_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2020-05-27.13:43:20::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2020-05-27.13:43:20::SCWMssOS:: -Wall -Wextra"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2020-05-27.13:43:21::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2020-05-27.13:43:21::SCWMssOS::-Wextra"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2020-05-27.13:43:21::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2020-05-27.13:43:21::SCWMssOS::-Wextra"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2020-05-27.13:43:21::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2020-05-27.13:43:21::SCWMssOS::-Wextra"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::"Running Make include in microblaze_0/libsrc/iic_v3_5/src"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2020-05-27.13:43:21::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2020-05-27.13:43:21::SCWMssOS::Wextra"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_10/src"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2020-05-27.13:43:21::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2020-05-27.13:43:21::SCWMssOS:: -Wextra"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::"Running Make include in microblaze_0/libsrc/lwip211_v1_1/src"
+
+TRACE::2020-05-27.13:43:21::SCWMssOS::make -C microblaze_0/libsrc/lwip211_v1_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2020-05-27.13:43:21::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2020-05-27.13:43:21::SCWMssOS::ll -Wextra"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_5/src"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2020-05-27.13:43:22::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2020-05-27.13:43:22::SCWMssOS::Wextra"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2020-05-27.13:43:22::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2020-05-27.13:43:22::SCWMssOS::-Wall -Wextra"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::"Running Make include in microblaze_0/libsrc/sysmon_v7_5/src"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::make -C microblaze_0/libsrc/sysmon_v7_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2020-05-27.13:43:22::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2020-05-27.13:43:22::SCWMssOS::l -Wextra"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_5/src"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2020-05-27.13:43:22::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2020-05-27.13:43:22::SCWMssOS::l -Wextra"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2020-05-27.13:43:22::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2020-05-27.13:43:22::SCWMssOS::all -Wextra"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartns550_v3_5/src"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::make -C microblaze_0/libsrc/uartns550_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2020-05-27.13:43:22::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2020-05-27.13:43:22::SCWMssOS::Wall -Wextra"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::"Running Make include in microblaze_0/libsrc/video_common_v4_8/src"
+
+TRACE::2020-05-27.13:43:22::SCWMssOS::make -C microblaze_0/libsrc/video_common_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" 
+TRACE::2020-05-27.13:43:22::SCWMssOS::"COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-section
+TRACE::2020-05-27.13:43:22::SCWMssOS::s -Wall -Wextra"
+
+TRACE::2020-05-27.13:43:23::SCWMssOS::"Running Make include in microblaze_0/libsrc/v_tpg_v8_1/src"
+
+TRACE::2020-05-27.13:43:23::SCWMssOS::make -C microblaze_0/libsrc/v_tpg_v8_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2020-05-27.13:43:23::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2020-05-27.13:43:23::SCWMssOS:: -Wextra"
+
+TRACE::2020-05-27.13:43:23::SCWMssOS::"Running Make libs in microblaze_0/libsrc/axidma_v9_10/src"
+
+TRACE::2020-05-27.13:43:23::SCWMssOS::make -C microblaze_0/libsrc/axidma_v9_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2020-05-27.13:43:23::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2020-05-27.13:43:23::SCWMssOS::-Wextra"
+
+TRACE::2020-05-27.13:43:23::SCWMssOS::"Compiling axidma"
+
+TRACE::2020-05-27.13:43:27::SCWMssOS::"Running Make libs in microblaze_0/libsrc/axiethernet_v5_9/src"
+
+TRACE::2020-05-27.13:43:27::SCWMssOS::make -C microblaze_0/libsrc/axiethernet_v5_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2020-05-27.13:43:27::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2020-05-27.13:43:27::SCWMssOS::all -Wextra"
+
+TRACE::2020-05-27.13:43:28::SCWMssOS::"Compiling axiethernet"
+
+TRACE::2020-05-27.13:43:28::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2020-05-27.13:43:28::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2020-05-27.13:43:28::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2020-05-27.13:43:28::SCWMssOS::xtra"
+
+TRACE::2020-05-27.13:43:28::SCWMssOS::"Compiling bram"
+
+TRACE::2020-05-27.13:43:29::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2020-05-27.13:43:29::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2020-05-27.13:43:29::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2020-05-27.13:43:29::SCWMssOS::xtra"
+
+TRACE::2020-05-27.13:43:29::SCWMssOS::"Compiling cpu"
+
+TRACE::2020-05-27.13:43:29::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2020-05-27.13:43:29::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2020-05-27.13:43:29::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2020-05-27.13:43:29::SCWMssOS::xtra"
+
+TRACE::2020-05-27.13:43:29::SCWMssOS::"Compiling gpio"
+
+TRACE::2020-05-27.13:43:30::SCWMssOS::"Running Make libs in microblaze_0/libsrc/iic_v3_5/src"
+
+TRACE::2020-05-27.13:43:30::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2020-05-27.13:43:30::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wex
+TRACE::2020-05-27.13:43:30::SCWMssOS::tra"
+
+TRACE::2020-05-27.13:43:30::SCWMssOS::"Compiling iic"
+
+TRACE::2020-05-27.13:43:32::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_10/src"
+
+TRACE::2020-05-27.13:43:32::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2020-05-27.13:43:32::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2020-05-27.13:43:32::SCWMssOS::extra"
+
+TRACE::2020-05-27.13:43:32::SCWMssOS::"Compiling intc"
+
+TRACE::2020-05-27.13:43:33::SCWMssOS::"Running Make libs in microblaze_0/libsrc/lwip211_v1_1/src"
+
+TRACE::2020-05-27.13:43:33::SCWMssOS::make -C microblaze_0/libsrc/lwip211_v1_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2020-05-27.13:43:33::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2020-05-27.13:43:33::SCWMssOS::-Wextra"
+
+TRACE::2020-05-27.13:43:33::SCWMssOS::"Compiling lwip src and adapter files"
+
+TRACE::2020-05-27.13:43:33::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_5/src"
+
+TRACE::2020-05-27.13:43:33::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2020-05-27.13:43:33::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wex
+TRACE::2020-05-27.13:43:33::SCWMssOS::tra"
+
+TRACE::2020-05-27.13:43:33::SCWMssOS::"Compiling spi"
+
+TRACE::2020-05-27.13:43:34::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2020-05-27.13:43:34::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2020-05-27.13:43:34::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2020-05-27.13:43:34::SCWMssOS::ll -Wextra"
+
+TRACE::2020-05-27.13:43:34::SCWMssOS::"Compiling standalone";
+
+TRACE::2020-05-27.13:43:38::SCWMssOS::"Running Make libs in microblaze_0/libsrc/sysmon_v7_5/src"
+
+TRACE::2020-05-27.13:43:38::SCWMssOS::make -C microblaze_0/libsrc/sysmon_v7_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2020-05-27.13:43:38::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2020-05-27.13:43:38::SCWMssOS::Wextra"
+
+TRACE::2020-05-27.13:43:38::SCWMssOS::"Compiling sysmon"
+
+TRACE::2020-05-27.13:43:39::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_5/src"
+
+TRACE::2020-05-27.13:43:39::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2020-05-27.13:43:39::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2020-05-27.13:43:39::SCWMssOS::Wextra"
+
+TRACE::2020-05-27.13:43:39::SCWMssOS::"Compiling tmrctr"
+
+TRACE::2020-05-27.13:43:40::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2020-05-27.13:43:40::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2020-05-27.13:43:40::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2020-05-27.13:43:40::SCWMssOS:: -Wextra"
+
+TRACE::2020-05-27.13:43:40::SCWMssOS::"Compiling uartlite"
+
+TRACE::2020-05-27.13:43:41::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartns550_v3_5/src"
+
+TRACE::2020-05-27.13:43:41::SCWMssOS::make -C microblaze_0/libsrc/uartns550_v3_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2020-05-27.13:43:41::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2020-05-27.13:43:41::SCWMssOS::l -Wextra"
+
+TRACE::2020-05-27.13:43:41::SCWMssOS::"Compiling uartns550"
+
+TRACE::2020-05-27.13:43:42::SCWMssOS::"Running Make libs in microblaze_0/libsrc/video_common_v4_8/src"
+
+TRACE::2020-05-27.13:43:42::SCWMssOS::make -C microblaze_0/libsrc/video_common_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2020-05-27.13:43:42::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2020-05-27.13:43:42::SCWMssOS::Wall -Wextra"
+
+TRACE::2020-05-27.13:43:42::SCWMssOS::"Compiling video_common"
+
+TRACE::2020-05-27.13:43:43::SCWMssOS::"Running Make libs in microblaze_0/libsrc/v_tpg_v8_1/src"
+
+TRACE::2020-05-27.13:43:43::SCWMssOS::make -C microblaze_0/libsrc/v_tpg_v8_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2020-05-27.13:43:43::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2020-05-27.13:43:43::SCWMssOS::extra"
+
+TRACE::2020-05-27.13:43:43::SCWMssOS::"Compiling v_tpg"
+
+TRACE::2020-05-27.13:43:44::SCWMssOS::'Finished building libraries'
+
+TRACE::2020-05-27.13:43:44::SCWMssOS::Copying to export directory.
+TRACE::2020-05-27.13:43:44::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-05-27.13:43:44::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-05-27.13:43:44::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2020-05-27.13:43:44::SCWSystem::Completed Processing the sysconfig tpu_top
+LOG::2020-05-27.13:43:44::SCWPlatform::Completed generating the artifacts for system configuration tpu_top
+TRACE::2020-05-27.13:43:44::SCWPlatform::Started preparing the platform 
+TRACE::2020-05-27.13:43:44::SCWSystem::Writing the bif file for system config tpu_top
+TRACE::2020-05-27.13:43:44::SCWSystem::dir created 
+TRACE::2020-05-27.13:43:44::SCWSystem::Writing the bif 
+TRACE::2020-05-27.13:43:44::SCWPlatform::Started writing the spfm file 
+TRACE::2020-05-27.13:43:44::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-05-27.13:43:44::SCWPlatform::Completed generating the platform
+TRACE::2020-05-27.13:43:44::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:44::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:44::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:44::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:44::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:44::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:44::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:44::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:44::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:44::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:44::SCWWriter::formatted JSON is {
+	"platformName":	"tpu_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"tpu_top",
+	"platHandOff":	"C:/Users/dell/Desktop/kcu105_ipi_total/tpu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/tpu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"tpu_top",
+	"systems":	[{
+			"systemName":	"tpu_top",
+			"systemDesc":	"tpu_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"tpu_top",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"4e037987c68a533c15632774b1dcf79e",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.1"],
+					"libOptions":	{
+						"lwip211":	{
+							"dhcp_does_arp_check":	"true",
+							"lwip_dhcp":	"true",
+							"pbuf_pool_size":	"2048",
+							"libOptionNames":	["dhcp_does_arp_check", "lwip_dhcp", "pbuf_pool_size"]
+						},
+						"libsContainingOptions":	["lwip211"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-05-27.13:43:44::SCWPlatform::updated the xpfm file.
+TRACE::2020-05-27.13:43:44::SCWPlatform::Trying to open the hw design at C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:44::SCWPlatform::DSA given C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:44::SCWPlatform::DSA absoulate path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:44::SCWPlatform::DSA directory C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw
+TRACE::2020-05-27.13:43:44::SCWPlatform:: Platform Path C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/hw/tpu_top.xsa
+TRACE::2020-05-27.13:43:44::SCWPlatform:: Unique name xilinx:kcu105::0.0
+TRACE::2020-05-27.13:43:44::SCWPlatform::Trying to set the existing hwdb with name tpu_top
+TRACE::2020-05-27.13:43:44::SCWPlatform::Opened existing hwdb tpu_top
+TRACE::2020-05-27.13:43:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-27.13:43:44::SCWMssOS::Checking the sw design at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-27.13:43:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-05-27.13:43:44::SCWMssOS::Sw design exists and opened at  C:/Users/dell/Desktop/board_test/kcu105_ipi_total/Workshop/tpu_top/microblaze_0/standalone_domain/bsp/system.mss

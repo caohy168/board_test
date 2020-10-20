@@ -1,0 +1,6 @@
+xbip_utils_v3_0_vh_rfs.vhd,vhdl,xbip_utils_v3_0_10,../../../ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd,
+xbip_dsp48_wrapper_v3_0_vh_rfs.vhd,vhdl,xbip_dsp48_wrapper_v3_0_4,../../../ipstatic/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd,
+xbip_pipe_v3_0_vh_rfs.vhd,vhdl,xbip_pipe_v3_0_6,../../../ipstatic/hdl/xbip_pipe_v3_0_vh_rfs.vhd,
+xbip_dsp48_addsub_v3_0_vh_rfs.vhd,vhdl,xbip_dsp48_addsub_v3_0_6,../../../ipstatic/hdl/xbip_dsp48_addsub_v3_0_vh_rfs.vhd,
+sub_ddc.vhd,vhdl,xil_defaultlib,../../../../10gbaser_trd.srcs/sources_1/new/tpu_source/ip/sub_ddc/sim/sub_ddc.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

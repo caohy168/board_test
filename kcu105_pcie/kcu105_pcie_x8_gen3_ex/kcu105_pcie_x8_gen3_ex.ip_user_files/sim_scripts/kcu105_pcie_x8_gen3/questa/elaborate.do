@@ -1,0 +1,1 @@
+vopt -64 +acc -l elaborate.log -L xpm -L gtwizard_ultrascale_v1_7_7 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.kcu105_pcie_x8_gen3 xil_defaultlib.glbl -o kcu105_pcie_x8_gen3_opt

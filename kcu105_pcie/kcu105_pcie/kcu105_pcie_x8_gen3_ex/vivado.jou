@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sat Oct 14 17:03:27 2017
+# Process ID: 17628
+# Current directory: c:/kcu105_pcie/kcu105_pcie_x8_gen3_ex
+# Command line: vivado.exe -notrace -source c:/kcu105_pcie/kcu105_pcie.srcs/sources_1/ip/kcu105_pcie_x8_gen3/kcu105_pcie_x8_gen3_ex.tcl
+# Log file: c:/kcu105_pcie/kcu105_pcie_x8_gen3_ex/vivado.log
+# Journal file: c:/kcu105_pcie/kcu105_pcie_x8_gen3_ex\vivado.jou
+#-----------------------------------------------------------
+start_gui
+source c:/kcu105_pcie/kcu105_pcie.srcs/sources_1/ip/kcu105_pcie_x8_gen3/kcu105_pcie_x8_gen3_ex.tcl -notrace
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+launch_runs impl_1 -to_step write_bitstream -jobs 2
+wait_on_run impl_1
+open_run impl_1

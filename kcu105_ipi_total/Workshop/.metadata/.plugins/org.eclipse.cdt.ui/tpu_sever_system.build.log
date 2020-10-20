@@ -1,0 +1,6 @@
+13:50:57 **** Incremental Build of configuration Debug for project tpu_sever_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+13:50:57 Build Finished (took 196ms)
+

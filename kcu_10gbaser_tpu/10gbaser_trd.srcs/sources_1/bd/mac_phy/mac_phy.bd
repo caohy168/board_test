@@ -1,0 +1,1832 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0xFACCB075C6515D2A",
+      "device": "xcku040-ffva1156-2-e",
+      "name": "mac_phy",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2019.2",
+      "validated": "true"
+    },
+    "design_tree": {
+      "mac_phy_ch0": {
+        "ten_gig_eth_mac_ch0": "",
+        "ten_gig_eth_pcs_pma_ch0": ""
+      },
+      "mac_phy_ch1": {
+        "ten_gig_eth_mac_ch1": "",
+        "ten_gig_eth_pcs_pma_ch1": ""
+      },
+      "system_ila_mac_phy2": "",
+      "xlconstant_1b0": "",
+      "xlconstant_1b1": "",
+      "xlconstant_3b101": "",
+      "xlconstant_8b0": ""
+    },
+    "interface_ports": {
+      "refclk_diff_port": {
+        "mode": "Slave",
+        "vlnv": "xilinx.com:interface:diff_clock_rtl:1.0",
+        "parameters": {
+          "CAN_DEBUG": {
+            "value": "false",
+            "value_src": "default"
+          },
+          "FREQ_HZ": {
+            "value": "156250000"
+          }
+        }
+      },
+      "rx_statistics_ch0": {
+        "mode": "Master",
+        "vlnv": "xilinx.com:display_ten_gig_eth_mac:statistics_rtl:2.0"
+      },
+      "rx_statistics_ch1": {
+        "mode": "Master",
+        "vlnv": "xilinx.com:display_ten_gig_eth_mac:statistics_rtl:2.0"
+      },
+      "s_axis_pause_ch0": {
+        "mode": "Slave",
+        "vlnv": "xilinx.com:interface:axis_rtl:1.0",
+        "parameters": {
+          "TDATA_NUM_BYTES": {
+            "value": "2"
+          },
+          "TDEST_WIDTH": {
+            "value": "0"
+          },
+          "TID_WIDTH": {
+            "value": "0"
+          },
+          "TUSER_WIDTH": {
+            "value": "0"
+          },
+          "HAS_TREADY": {
+            "value": "0"
+          },
+          "HAS_TSTRB": {
+            "value": "0"
+          },
+          "HAS_TKEEP": {
+            "value": "0"
+          },
+          "HAS_TLAST": {
+            "value": "0"
+          },
+          "FREQ_HZ": {
+            "value": "156250000",
+            "value_src": "user_prop"
+          },
+          "PHASE": {
+            "value": "0.000"
+          },
+          "CLK_DOMAIN": {
+            "value": "mac_phy_ten_gig_eth_pcs_pma_ch0_0_coreclk_out",
+            "value_src": "default_prop"
+          },
+          "LAYERED_METADATA": {
+            "value": "undef"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          }
+        }
+      },
+      "s_axis_pause_ch1": {
+        "mode": "Slave",
+        "vlnv": "xilinx.com:interface:axis_rtl:1.0",
+        "parameters": {
+          "TDATA_NUM_BYTES": {
+            "value": "2"
+          },
+          "TDEST_WIDTH": {
+            "value": "0"
+          },
+          "TID_WIDTH": {
+            "value": "0"
+          },
+          "TUSER_WIDTH": {
+            "value": "0"
+          },
+          "HAS_TREADY": {
+            "value": "0"
+          },
+          "HAS_TSTRB": {
+            "value": "0"
+          },
+          "HAS_TKEEP": {
+            "value": "0"
+          },
+          "HAS_TLAST": {
+            "value": "0"
+          },
+          "FREQ_HZ": {
+            "value": "156250000",
+            "value_src": "user_prop"
+          },
+          "PHASE": {
+            "value": "0.000"
+          },
+          "CLK_DOMAIN": {
+            "value": "mac_phy_ten_gig_eth_pcs_pma_ch0_0_coreclk_out",
+            "value_src": "default_prop"
+          },
+          "LAYERED_METADATA": {
+            "value": "undef"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          }
+        }
+      },
+      "tx_statistics_ch0": {
+        "mode": "Master",
+        "vlnv": "xilinx.com:display_ten_gig_eth_mac:statistics_rtl:2.0"
+      },
+      "tx_statistics_ch1": {
+        "mode": "Master",
+        "vlnv": "xilinx.com:display_ten_gig_eth_mac:statistics_rtl:2.0"
+      },
+      "m_axis_rx_0": {
+        "mode": "Master",
+        "vlnv": "xilinx.com:interface:axis_rtl:1.0",
+        "parameters": {
+          "TDATA_NUM_BYTES": {
+            "value": "8",
+            "value_src": "auto_prop"
+          },
+          "TDEST_WIDTH": {
+            "value": "0",
+            "value_src": "const_prop"
+          },
+          "TID_WIDTH": {
+            "value": "0",
+            "value_src": "const_prop"
+          },
+          "TUSER_WIDTH": {
+            "value": "1",
+            "value_src": "const_prop"
+          },
+          "HAS_TREADY": {
+            "value": "0",
+            "value_src": "const_prop"
+          },
+          "HAS_TSTRB": {
+            "value": "0",
+            "value_src": "const_prop"
+          },
+          "HAS_TKEEP": {
+            "value": "1",
+            "value_src": "auto_prop"
+          },
+          "HAS_TLAST": {
+            "value": "1",
+            "value_src": "const_prop"
+          },
+          "FREQ_HZ": {
+            "value": "156250000"
+          },
+          "PHASE": {
+            "value": "0.000",
+            "value_src": "default"
+          },
+          "LAYERED_METADATA": {
+            "value": "undef",
+            "value_src": "default"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          }
+        }
+      },
+      "s_axis_tx_0": {
+        "mode": "Slave",
+        "vlnv": "xilinx.com:interface:axis_rtl:1.0",
+        "parameters": {
+          "TDATA_NUM_BYTES": {
+            "value": "8"
+          },
+          "TDEST_WIDTH": {
+            "value": "0"
+          },
+          "TID_WIDTH": {
+            "value": "0"
+          },
+          "TUSER_WIDTH": {
+            "value": "1"
+          },
+          "HAS_TREADY": {
+            "value": "1"
+          },
+          "HAS_TSTRB": {
+            "value": "0"
+          },
+          "HAS_TKEEP": {
+            "value": "1"
+          },
+          "HAS_TLAST": {
+            "value": "1"
+          },
+          "FREQ_HZ": {
+            "value": "156250000"
+          },
+          "PHASE": {
+            "value": "0.000",
+            "value_src": "default"
+          },
+          "LAYERED_METADATA": {
+            "value": "undef"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          }
+        }
+      },
+      "s_axis_tx_1": {
+        "mode": "Slave",
+        "vlnv": "xilinx.com:interface:axis_rtl:1.0",
+        "parameters": {
+          "TDATA_NUM_BYTES": {
+            "value": "8"
+          },
+          "TDEST_WIDTH": {
+            "value": "0"
+          },
+          "TID_WIDTH": {
+            "value": "0"
+          },
+          "TUSER_WIDTH": {
+            "value": "1"
+          },
+          "HAS_TREADY": {
+            "value": "1"
+          },
+          "HAS_TSTRB": {
+            "value": "0"
+          },
+          "HAS_TKEEP": {
+            "value": "1"
+          },
+          "HAS_TLAST": {
+            "value": "1"
+          },
+          "FREQ_HZ": {
+            "value": "156250000"
+          },
+          "PHASE": {
+            "value": "0.000",
+            "value_src": "default"
+          },
+          "LAYERED_METADATA": {
+            "value": "undef"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          }
+        }
+      },
+      "m_axis_rx_1": {
+        "mode": "Master",
+        "vlnv": "xilinx.com:interface:axis_rtl:1.0",
+        "parameters": {
+          "TDATA_NUM_BYTES": {
+            "value": "8",
+            "value_src": "auto_prop"
+          },
+          "TDEST_WIDTH": {
+            "value": "0",
+            "value_src": "const_prop"
+          },
+          "TID_WIDTH": {
+            "value": "0",
+            "value_src": "const_prop"
+          },
+          "TUSER_WIDTH": {
+            "value": "1",
+            "value_src": "const_prop"
+          },
+          "HAS_TREADY": {
+            "value": "0",
+            "value_src": "const_prop"
+          },
+          "HAS_TSTRB": {
+            "value": "0",
+            "value_src": "const_prop"
+          },
+          "HAS_TKEEP": {
+            "value": "1",
+            "value_src": "auto_prop"
+          },
+          "HAS_TLAST": {
+            "value": "1",
+            "value_src": "const_prop"
+          },
+          "FREQ_HZ": {
+            "value": "156250000"
+          },
+          "PHASE": {
+            "value": "0.000",
+            "value_src": "default"
+          },
+          "LAYERED_METADATA": {
+            "value": "undef",
+            "value_src": "default"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          }
+        }
+      }
+    },
+    "ports": {
+      "aux_resetn": {
+        "type": "rst",
+        "direction": "I",
+        "parameters": {
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "POLARITY": {
+            "value": "ACTIVE_LOW",
+            "value_src": "default"
+          }
+        }
+      },
+      "rx_resetdone_ch1": {
+        "direction": "O"
+      },
+      "tx_disable_ch1": {
+        "direction": "O"
+      },
+      "tx_resetdone_ch1": {
+        "direction": "O"
+      },
+      "txclk322_ch1": {
+        "direction": "O",
+        "parameters": {
+          "CLK_DOMAIN": {
+            "value": "mac_phy_ten_gig_eth_pcs_pma_ch1_0_txoutclk",
+            "value_src": "default_prop"
+          },
+          "FREQ_HZ": {
+            "value": "312500000",
+            "value_src": "user_prop"
+          },
+          "PHASE": {
+            "value": "0.000",
+            "value_src": "default_prop"
+          }
+        }
+      },
+      "txn_ch1": {
+        "direction": "O"
+      },
+      "txp_ch1": {
+        "direction": "O"
+      },
+      "core_clk156_out": {
+        "type": "clk",
+        "direction": "O",
+        "parameters": {
+          "ASSOCIATED_BUSIF": {
+            "value": "s_axis_pause_ch1:s_axis_pause_ch0"
+          },
+          "CLK_DOMAIN": {
+            "value": "mac_phy_ten_gig_eth_pcs_pma_ch0_0_coreclk_out",
+            "value_src": "default_prop"
+          },
+          "FREQ_HZ": {
+            "value": "156250000",
+            "value_src": "user_prop"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "PHASE": {
+            "value": "0.000",
+            "value_src": "default"
+          }
+        }
+      },
+      "resetdone_ch0": {
+        "direction": "O"
+      },
+      "prtad_ch0": {
+        "direction": "I",
+        "left": "4",
+        "right": "0"
+      },
+      "prtad_ch1": {
+        "direction": "I",
+        "left": "4",
+        "right": "0"
+      },
+      "reset": {
+        "type": "rst",
+        "direction": "I",
+        "parameters": {
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "POLARITY": {
+            "value": "ACTIVE_HIGH"
+          }
+        }
+      },
+      "reset_n": {
+        "direction": "I"
+      },
+      "s_axi_aresetn": {
+        "type": "rst",
+        "direction": "O",
+        "left": "0",
+        "right": "0",
+        "parameters": {
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "POLARITY": {
+            "value": "ACTIVE_LOW",
+            "value_src": "default"
+          }
+        }
+      },
+      "rxn_ch0": {
+        "direction": "I"
+      },
+      "rxn_ch1": {
+        "direction": "I"
+      },
+      "rxp_ch0": {
+        "direction": "I"
+      },
+      "rxp_ch1": {
+        "direction": "I"
+      },
+      "sim_speedup_control_ch0": {
+        "direction": "I"
+      },
+      "sim_speedup_control_ch1": {
+        "direction": "I"
+      },
+      "tx_disable_ch0": {
+        "direction": "O"
+      },
+      "txn_ch0": {
+        "direction": "O"
+      },
+      "txp_ch0": {
+        "direction": "O"
+      },
+      "core_status_ch0": {
+        "direction": "O",
+        "left": "7",
+        "right": "0"
+      },
+      "core_status_ch1": {
+        "direction": "O",
+        "left": "7",
+        "right": "0"
+      },
+      "mb_clk": {
+        "type": "clk",
+        "direction": "I",
+        "parameters": {
+          "ASSOCIATED_BUSIF": {
+            "value": "M03_AXI_0:M05_AXI_0",
+            "value_src": "default"
+          },
+          "CLK_DOMAIN": {
+            "value": "mac_phy_mb_clk",
+            "value_src": "default"
+          },
+          "FREQ_HZ": {
+            "value": "156250000"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "PHASE": {
+            "value": "0.000",
+            "value_src": "default"
+          }
+        }
+      }
+    },
+    "components": {
+      "mac_phy_ch0": {
+        "interface_ports": {
+          "m_axis_rx": {
+            "mode": "Master",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "refclk_diff_port": {
+            "mode": "Slave",
+            "vlnv": "xilinx.com:interface:diff_clock_rtl:1.0"
+          },
+          "rx_statistics": {
+            "mode": "Master",
+            "vlnv": "xilinx.com:display_ten_gig_eth_mac:statistics_rtl:2.0"
+          },
+          "s_axi": {
+            "mode": "Slave",
+            "vlnv": "xilinx.com:interface:aximm_rtl:1.0"
+          },
+          "s_axis_pause": {
+            "mode": "Slave",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "s_axis_tx": {
+            "mode": "Slave",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "tx_statistics": {
+            "mode": "Master",
+            "vlnv": "xilinx.com:display_ten_gig_eth_mac:statistics_rtl:2.0"
+          }
+        },
+        "ports": {
+          "areset": {
+            "direction": "I"
+          },
+          "areset_clk156_out": {
+            "type": "rst",
+            "direction": "O"
+          },
+          "clk156": {
+            "type": "clk",
+            "direction": "I"
+          },
+          "core_clk156_out": {
+            "type": "clk",
+            "direction": "O"
+          },
+          "core_status": {
+            "direction": "O",
+            "left": "7",
+            "right": "0"
+          },
+          "gtrxreset_out": {
+            "type": "rst",
+            "direction": "O"
+          },
+          "gttxreset_out": {
+            "type": "rst",
+            "direction": "O"
+          },
+          "prtad": {
+            "direction": "I",
+            "left": "4",
+            "right": "0"
+          },
+          "qpll0lock_out": {
+            "direction": "O"
+          },
+          "qpll0outclk_out": {
+            "type": "clk",
+            "direction": "O"
+          },
+          "qpll0outrefclk_out": {
+            "type": "clk",
+            "direction": "O"
+          },
+          "reset_counter_done_out": {
+            "direction": "O"
+          },
+          "resetdone": {
+            "direction": "O"
+          },
+          "rx_axis_aresetn": {
+            "type": "rst",
+            "direction": "I"
+          },
+          "rx_dcm_locked": {
+            "direction": "I",
+            "left": "0",
+            "right": "0"
+          },
+          "rxn": {
+            "direction": "I"
+          },
+          "rxp": {
+            "direction": "I"
+          },
+          "s_axi_aclk": {
+            "direction": "I"
+          },
+          "s_axi_aresetn": {
+            "direction": "I",
+            "left": "0",
+            "right": "0"
+          },
+          "sim_speedup_control": {
+            "direction": "I"
+          },
+          "tx_disable": {
+            "direction": "O"
+          },
+          "tx_fault": {
+            "direction": "I",
+            "left": "0",
+            "right": "0"
+          },
+          "tx_ifg_delay": {
+            "direction": "I",
+            "left": "7",
+            "right": "0"
+          },
+          "txn": {
+            "direction": "O"
+          },
+          "txp": {
+            "direction": "O"
+          },
+          "txuserrdy_out": {
+            "direction": "O"
+          },
+          "txusrclk2_out": {
+            "type": "clk",
+            "direction": "O"
+          },
+          "txusrclk_out": {
+            "type": "clk",
+            "direction": "O"
+          }
+        },
+        "components": {
+          "ten_gig_eth_mac_ch0": {
+            "vlnv": "xilinx.com:ip:ten_gig_eth_mac:15.1",
+            "xci_name": "mac_phy_ten_gig_eth_mac_ch0_0"
+          },
+          "ten_gig_eth_pcs_pma_ch0": {
+            "vlnv": "xilinx.com:ip:ten_gig_eth_pcs_pma:6.0",
+            "xci_name": "mac_phy_ten_gig_eth_pcs_pma_ch0_0",
+            "parameters": {
+              "Locations": {
+                "value": "X0Y10"
+              },
+              "SupportLevel": {
+                "value": "1"
+              },
+              "base_kr": {
+                "value": "BASE-R"
+              }
+            }
+          }
+        },
+        "interface_nets": {
+          "Conn2": {
+            "interface_ports": [
+              "refclk_diff_port",
+              "ten_gig_eth_pcs_pma_ch0/refclk_diff_port"
+            ]
+          },
+          "Conn3": {
+            "interface_ports": [
+              "tx_statistics",
+              "ten_gig_eth_mac_ch0/tx_statistics"
+            ]
+          },
+          "microblaze_0_axi_periph_M04_AXI": {
+            "interface_ports": [
+              "s_axi",
+              "ten_gig_eth_mac_ch0/s_axi"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_core_to_gt_drp": {
+            "interface_ports": [
+              "ten_gig_eth_pcs_pma_ch0/core_to_gt_drp",
+              "ten_gig_eth_pcs_pma_ch0/gt_drp"
+            ]
+          },
+          "ten_gig_eth_mac_ch0_m_axis_rx": {
+            "interface_ports": [
+              "m_axis_rx",
+              "ten_gig_eth_mac_ch0/m_axis_rx"
+            ]
+          },
+          "Conn1": {
+            "interface_ports": [
+              "s_axis_pause",
+              "ten_gig_eth_mac_ch0/s_axis_pause"
+            ]
+          },
+          "Conn4": {
+            "interface_ports": [
+              "rx_statistics",
+              "ten_gig_eth_mac_ch0/rx_statistics"
+            ]
+          },
+          "axis_data_fifo_tx_ch0_M_AXIS": {
+            "interface_ports": [
+              "s_axis_tx",
+              "ten_gig_eth_mac_ch0/s_axis_tx"
+            ]
+          },
+          "ten_gig_eth_mac_ch0_xgmii_xgmac": {
+            "interface_ports": [
+              "ten_gig_eth_mac_ch0/xgmii_xgmac",
+              "ten_gig_eth_pcs_pma_ch0/xgmii_interface"
+            ]
+          }
+        },
+        "nets": {
+          "hdp_patgen_0_tx_ifg_delay": {
+            "ports": [
+              "tx_ifg_delay",
+              "ten_gig_eth_mac_ch0/tx_ifg_delay"
+            ]
+          },
+          "microblaze_0_Clk": {
+            "ports": [
+              "clk156",
+              "ten_gig_eth_mac_ch0/tx_clk0",
+              "ten_gig_eth_mac_ch0/rx_clk0"
+            ]
+          },
+          "prtad_1": {
+            "ports": [
+              "prtad",
+              "ten_gig_eth_pcs_pma_ch0/prtad"
+            ]
+          },
+          "reset_mac": {
+            "ports": [
+              "areset",
+              "ten_gig_eth_mac_ch0/reset",
+              "ten_gig_eth_pcs_pma_ch0/reset"
+            ]
+          },
+          "reset_n_mac_1": {
+            "ports": [
+              "rx_axis_aresetn",
+              "ten_gig_eth_mac_ch0/tx_axis_aresetn",
+              "ten_gig_eth_mac_ch0/rx_axis_aresetn"
+            ]
+          },
+          "rst_clk_156_156M_peripheral_aresetn": {
+            "ports": [
+              "s_axi_aresetn",
+              "ten_gig_eth_mac_ch0/s_axi_aresetn"
+            ]
+          },
+          "rxn_1": {
+            "ports": [
+              "rxn",
+              "ten_gig_eth_pcs_pma_ch0/rxn"
+            ]
+          },
+          "rxp_1": {
+            "ports": [
+              "rxp",
+              "ten_gig_eth_pcs_pma_ch0/rxp"
+            ]
+          },
+          "s_axi_aclk_1": {
+            "ports": [
+              "s_axi_aclk",
+              "ten_gig_eth_mac_ch0/s_axi_aclk"
+            ]
+          },
+          "s_axis_pause_tvalid_1": {
+            "ports": [
+              "tx_fault",
+              "ten_gig_eth_pcs_pma_ch0/tx_fault"
+            ]
+          },
+          "sim_speedup_control_1": {
+            "ports": [
+              "sim_speedup_control",
+              "ten_gig_eth_pcs_pma_ch0/sim_speedup_control"
+            ]
+          },
+          "ten_gig_eth_mac_ch0_mdc": {
+            "ports": [
+              "ten_gig_eth_mac_ch0/mdc",
+              "ten_gig_eth_pcs_pma_ch0/mdc"
+            ]
+          },
+          "ten_gig_eth_mac_ch0_mdio_out": {
+            "ports": [
+              "ten_gig_eth_mac_ch0/mdio_out",
+              "ten_gig_eth_pcs_pma_ch0/mdio_in"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_areset_clk156_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/areset_datapathclk_out",
+              "areset_clk156_out"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_core_clk156_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/coreclk_out",
+              "core_clk156_out",
+              "ten_gig_eth_pcs_pma_ch0/dclk"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_core_status": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/core_status",
+              "core_status"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_drp_req": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/drp_req",
+              "ten_gig_eth_pcs_pma_ch0/drp_gnt"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_gtrxreset_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/gtrxreset_out",
+              "gtrxreset_out"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_gttxreset_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/gttxreset_out",
+              "gttxreset_out"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_mdio_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/mdio_out",
+              "ten_gig_eth_mac_ch0/mdio_in"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_qpll0lock_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/qpll0lock_out",
+              "qpll0lock_out"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_qpll0outclk_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/qpll0outclk_out",
+              "qpll0outclk_out"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_qpll0outrefclk_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/qpll0outrefclk_out",
+              "qpll0outrefclk_out"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_reset_counter_done_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/reset_counter_done_out",
+              "reset_counter_done_out"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_resetdone": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/resetdone_out",
+              "resetdone"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_tx_disable": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/tx_disable",
+              "tx_disable"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_txn": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/txn",
+              "txn"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_txp": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/txp",
+              "txp"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_txuserrdy_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/txuserrdy_out",
+              "txuserrdy_out"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_txusrclk2_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/txusrclk2_out",
+              "txusrclk2_out"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_txusrclk_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch0/txusrclk_out",
+              "txusrclk_out"
+            ]
+          },
+          "xlconstant_0_const": {
+            "ports": [
+              "rx_dcm_locked",
+              "ten_gig_eth_mac_ch0/tx_dcm_locked",
+              "ten_gig_eth_mac_ch0/rx_dcm_locked",
+              "ten_gig_eth_pcs_pma_ch0/signal_detect"
+            ]
+          }
+        }
+      },
+      "mac_phy_ch1": {
+        "interface_ports": {
+          "m_axis_rx": {
+            "mode": "Master",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "rx_statistics": {
+            "mode": "Master",
+            "vlnv": "xilinx.com:display_ten_gig_eth_mac:statistics_rtl:2.0"
+          },
+          "s_axi": {
+            "mode": "Slave",
+            "vlnv": "xilinx.com:interface:aximm_rtl:1.0"
+          },
+          "s_axis_pause": {
+            "mode": "Slave",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "s_axis_tx": {
+            "mode": "Slave",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "tx_statistics": {
+            "mode": "Master",
+            "vlnv": "xilinx.com:display_ten_gig_eth_mac:statistics_rtl:2.0"
+          }
+        },
+        "ports": {
+          "areset": {
+            "direction": "I"
+          },
+          "areset_clk156": {
+            "direction": "I"
+          },
+          "clk156": {
+            "type": "clk",
+            "direction": "I"
+          },
+          "core_status": {
+            "direction": "O",
+            "left": "7",
+            "right": "0"
+          },
+          "dclk": {
+            "direction": "I"
+          },
+          "gtrxreset": {
+            "direction": "I"
+          },
+          "gttxreset": {
+            "direction": "I"
+          },
+          "prtad": {
+            "direction": "I",
+            "left": "4",
+            "right": "0"
+          },
+          "qpll0lock": {
+            "direction": "I"
+          },
+          "qpll0outclk": {
+            "direction": "I"
+          },
+          "qpll0outrefclk": {
+            "direction": "I"
+          },
+          "reset_counter_done": {
+            "direction": "I"
+          },
+          "rx_axis_aresetn": {
+            "type": "rst",
+            "direction": "I"
+          },
+          "rx_dcm_locked": {
+            "direction": "I",
+            "left": "0",
+            "right": "0"
+          },
+          "rx_resetdone": {
+            "direction": "O"
+          },
+          "rxn": {
+            "direction": "I"
+          },
+          "rxp": {
+            "direction": "I"
+          },
+          "s_axi_aclk": {
+            "direction": "I"
+          },
+          "s_axi_aresetn": {
+            "direction": "I",
+            "left": "0",
+            "right": "0"
+          },
+          "sim_speedup_control": {
+            "direction": "I"
+          },
+          "tx_disable": {
+            "direction": "O"
+          },
+          "tx_fault": {
+            "direction": "I",
+            "left": "0",
+            "right": "0"
+          },
+          "tx_ifg_delay": {
+            "direction": "I",
+            "left": "7",
+            "right": "0"
+          },
+          "tx_resetdone": {
+            "direction": "O"
+          },
+          "txclk322": {
+            "direction": "O"
+          },
+          "txn": {
+            "direction": "O"
+          },
+          "txp": {
+            "direction": "O"
+          },
+          "txuserrdy": {
+            "direction": "I"
+          },
+          "txusrclk": {
+            "direction": "I"
+          },
+          "txusrclk2": {
+            "direction": "I"
+          },
+          "rxrecclk_out": {
+            "type": "clk",
+            "direction": "O"
+          },
+          "pma_pmd_type": {
+            "direction": "I",
+            "left": "2",
+            "right": "0"
+          }
+        },
+        "components": {
+          "ten_gig_eth_mac_ch1": {
+            "vlnv": "xilinx.com:ip:ten_gig_eth_mac:15.1",
+            "xci_name": "mac_phy_ten_gig_eth_mac_ch1_0"
+          },
+          "ten_gig_eth_pcs_pma_ch1": {
+            "vlnv": "xilinx.com:ip:ten_gig_eth_pcs_pma:6.0",
+            "xci_name": "mac_phy_ten_gig_eth_pcs_pma_ch1_0",
+            "parameters": {
+              "Locations": {
+                "value": "X0Y9"
+              },
+              "base_kr": {
+                "value": "BASE-R"
+              }
+            }
+          }
+        },
+        "interface_nets": {
+          "ten_gig_eth_mac_ch0_xgmii_xgmac_1": {
+            "interface_ports": [
+              "ten_gig_eth_mac_ch1/xgmii_xgmac",
+              "ten_gig_eth_pcs_pma_ch1/xgmii_interface"
+            ]
+          },
+          "s_axi_mac_1": {
+            "interface_ports": [
+              "s_axi",
+              "ten_gig_eth_mac_ch1/s_axi"
+            ]
+          },
+          "axis_data_fifo_tx_ch0_M_AXIS_1": {
+            "interface_ports": [
+              "s_axis_tx",
+              "ten_gig_eth_mac_ch1/s_axis_tx"
+            ]
+          },
+          "Conn1": {
+            "interface_ports": [
+              "s_axis_pause",
+              "ten_gig_eth_mac_ch1/s_axis_pause"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_core_to_gt_drp_1": {
+            "interface_ports": [
+              "ten_gig_eth_pcs_pma_ch1/core_to_gt_drp",
+              "ten_gig_eth_pcs_pma_ch1/gt_drp"
+            ]
+          },
+          "Conn2": {
+            "interface_ports": [
+              "tx_statistics",
+              "ten_gig_eth_mac_ch1/tx_statistics"
+            ]
+          },
+          "ten_gig_eth_mac_ch0_m_axis_rx_1": {
+            "interface_ports": [
+              "m_axis_rx",
+              "ten_gig_eth_mac_ch1/m_axis_rx"
+            ]
+          },
+          "Conn3": {
+            "interface_ports": [
+              "rx_statistics",
+              "ten_gig_eth_mac_ch1/rx_statistics"
+            ]
+          }
+        },
+        "nets": {
+          "areset_clk156_1": {
+            "ports": [
+              "areset_clk156",
+              "ten_gig_eth_pcs_pma_ch1/areset_coreclk"
+            ]
+          },
+          "channel_1_core_status": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/core_status",
+              "core_status"
+            ]
+          },
+          "channel_1_rx_resetdone": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/rx_resetdone",
+              "rx_resetdone"
+            ]
+          },
+          "channel_1_tx_disable": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/tx_disable",
+              "tx_disable"
+            ]
+          },
+          "channel_1_tx_resetdone": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/tx_resetdone",
+              "tx_resetdone"
+            ]
+          },
+          "channel_1_txclk322": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/txoutclk",
+              "txclk322"
+            ]
+          },
+          "channel_1_txn": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/txn",
+              "txn"
+            ]
+          },
+          "channel_1_txp": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/txp",
+              "txp"
+            ]
+          },
+          "dclk_1": {
+            "ports": [
+              "dclk",
+              "ten_gig_eth_pcs_pma_ch1/dclk"
+            ]
+          },
+          "gtrxreset_1": {
+            "ports": [
+              "gtrxreset",
+              "ten_gig_eth_pcs_pma_ch1/gtrxreset"
+            ]
+          },
+          "gttxreset_1": {
+            "ports": [
+              "gttxreset",
+              "ten_gig_eth_pcs_pma_ch1/gttxreset"
+            ]
+          },
+          "hdp_patgen_0_tx_ifg_delay_1": {
+            "ports": [
+              "tx_ifg_delay",
+              "ten_gig_eth_mac_ch1/tx_ifg_delay"
+            ]
+          },
+          "microblaze_0_Clk": {
+            "ports": [
+              "clk156",
+              "ten_gig_eth_mac_ch1/tx_clk0",
+              "ten_gig_eth_mac_ch1/rx_clk0",
+              "ten_gig_eth_pcs_pma_ch1/coreclk"
+            ]
+          },
+          "prtad_2": {
+            "ports": [
+              "prtad",
+              "ten_gig_eth_pcs_pma_ch1/prtad"
+            ]
+          },
+          "qpll0lock_1": {
+            "ports": [
+              "qpll0lock",
+              "ten_gig_eth_pcs_pma_ch1/qpll0lock"
+            ]
+          },
+          "qpll0outclk_1": {
+            "ports": [
+              "qpll0outclk",
+              "ten_gig_eth_pcs_pma_ch1/qpll0outclk"
+            ]
+          },
+          "qpll0outrefclk_1": {
+            "ports": [
+              "qpll0outrefclk",
+              "ten_gig_eth_pcs_pma_ch1/qpll0outrefclk"
+            ]
+          },
+          "reset_counter_done_1": {
+            "ports": [
+              "reset_counter_done",
+              "ten_gig_eth_pcs_pma_ch1/reset_counter_done"
+            ]
+          },
+          "reset_mac": {
+            "ports": [
+              "areset",
+              "ten_gig_eth_mac_ch1/reset",
+              "ten_gig_eth_pcs_pma_ch1/areset"
+            ]
+          },
+          "reset_n_mac_1": {
+            "ports": [
+              "rx_axis_aresetn",
+              "ten_gig_eth_mac_ch1/tx_axis_aresetn",
+              "ten_gig_eth_mac_ch1/rx_axis_aresetn"
+            ]
+          },
+          "rst_clk_156_156M_peripheral_aresetn": {
+            "ports": [
+              "s_axi_aresetn",
+              "ten_gig_eth_mac_ch1/s_axi_aresetn"
+            ]
+          },
+          "rxn_2": {
+            "ports": [
+              "rxn",
+              "ten_gig_eth_pcs_pma_ch1/rxn"
+            ]
+          },
+          "rxp_2": {
+            "ports": [
+              "rxp",
+              "ten_gig_eth_pcs_pma_ch1/rxp"
+            ]
+          },
+          "s_axi_aclk_1": {
+            "ports": [
+              "s_axi_aclk",
+              "ten_gig_eth_mac_ch1/s_axi_aclk"
+            ]
+          },
+          "s_axis_pause_tvalid_1": {
+            "ports": [
+              "tx_fault",
+              "ten_gig_eth_pcs_pma_ch1/tx_fault"
+            ]
+          },
+          "sim_speedup_control_1": {
+            "ports": [
+              "sim_speedup_control",
+              "ten_gig_eth_pcs_pma_ch1/sim_speedup_control"
+            ]
+          },
+          "ten_gig_eth_mac_ch0_mdc_1": {
+            "ports": [
+              "ten_gig_eth_mac_ch1/mdc",
+              "ten_gig_eth_pcs_pma_ch1/mdc"
+            ]
+          },
+          "ten_gig_eth_mac_ch0_mdio_out_1": {
+            "ports": [
+              "ten_gig_eth_mac_ch1/mdio_out",
+              "ten_gig_eth_pcs_pma_ch1/mdio_in"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_drp_req_1": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/drp_req",
+              "ten_gig_eth_pcs_pma_ch1/drp_gnt"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch0_mdio_out_1": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/mdio_out",
+              "ten_gig_eth_mac_ch1/mdio_in"
+            ]
+          },
+          "txuserrdy_1": {
+            "ports": [
+              "txuserrdy",
+              "ten_gig_eth_pcs_pma_ch1/txuserrdy"
+            ]
+          },
+          "txusrclk2_1": {
+            "ports": [
+              "txusrclk2",
+              "ten_gig_eth_pcs_pma_ch1/txusrclk2"
+            ]
+          },
+          "txusrclk_1": {
+            "ports": [
+              "txusrclk",
+              "ten_gig_eth_pcs_pma_ch1/txusrclk"
+            ]
+          },
+          "xlconstant_0_const": {
+            "ports": [
+              "rx_dcm_locked",
+              "ten_gig_eth_mac_ch1/tx_dcm_locked",
+              "ten_gig_eth_mac_ch1/rx_dcm_locked",
+              "ten_gig_eth_pcs_pma_ch1/signal_detect"
+            ]
+          },
+          "ten_gig_eth_pcs_pma_ch1_rxrecclk_out": {
+            "ports": [
+              "ten_gig_eth_pcs_pma_ch1/rxrecclk_out",
+              "rxrecclk_out"
+            ]
+          },
+          "pma_pmd_type_1": {
+            "ports": [
+              "pma_pmd_type",
+              "ten_gig_eth_pcs_pma_ch1/pma_pmd_type"
+            ]
+          }
+        }
+      },
+      "system_ila_mac_phy2": {
+        "vlnv": "xilinx.com:ip:system_ila:1.1",
+        "xci_name": "mac_phy_system_ila_mac_phy1_0",
+        "parameters": {
+          "C_DATA_DEPTH": {
+            "value": "2048"
+          },
+          "C_MON_TYPE": {
+            "value": "INTERFACE"
+          },
+          "C_NUM_MONITOR_SLOTS": {
+            "value": "4"
+          },
+          "C_SLOT": {
+            "value": "2"
+          },
+          "C_SLOT_0_AXIS_TDATA_WIDTH": {
+            "value": "64"
+          },
+          "C_SLOT_0_INTF_TYPE": {
+            "value": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "C_SLOT_1_AXIS_TDATA_WIDTH": {
+            "value": "64"
+          },
+          "C_SLOT_1_AXI_ID_WIDTH": {
+            "value": "AUTO"
+          },
+          "C_SLOT_1_INTF_TYPE": {
+            "value": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "C_SLOT_2_AXIS_TDATA_WIDTH": {
+            "value": "64"
+          },
+          "C_SLOT_2_INTF_TYPE": {
+            "value": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "C_SLOT_3_AXIS_TDATA_WIDTH": {
+            "value": "64"
+          },
+          "C_SLOT_3_AXI_ID_WIDTH": {
+            "value": "AUTO"
+          },
+          "C_SLOT_3_INTF_TYPE": {
+            "value": "xilinx.com:interface:axis_rtl:1.0"
+          }
+        },
+        "interface_ports": {
+          "SLOT_0_AXIS": {
+            "mode": "Monitor",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "SLOT_1_AXIS": {
+            "mode": "Monitor",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "SLOT_2_AXIS": {
+            "mode": "Monitor",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          },
+          "SLOT_3_AXIS": {
+            "mode": "Monitor",
+            "vlnv": "xilinx.com:interface:axis_rtl:1.0"
+          }
+        }
+      },
+      "xlconstant_1b0": {
+        "vlnv": "xilinx.com:ip:xlconstant:1.1",
+        "xci_name": "mac_phy_xlconstant_1b0_0",
+        "parameters": {
+          "CONST_VAL": {
+            "value": "0"
+          }
+        }
+      },
+      "xlconstant_1b1": {
+        "vlnv": "xilinx.com:ip:xlconstant:1.1",
+        "xci_name": "mac_phy_xlconstant_1b1_0"
+      },
+      "xlconstant_3b101": {
+        "vlnv": "xilinx.com:ip:xlconstant:1.1",
+        "xci_name": "mac_phy_xlconstant_3b101_0",
+        "parameters": {
+          "CONST_VAL": {
+            "value": "5"
+          },
+          "CONST_WIDTH": {
+            "value": "3"
+          }
+        }
+      },
+      "xlconstant_8b0": {
+        "vlnv": "xilinx.com:ip:xlconstant:1.1",
+        "xci_name": "mac_phy_xlconstant_8b0_0",
+        "parameters": {
+          "CONST_VAL": {
+            "value": "0"
+          },
+          "CONST_WIDTH": {
+            "value": "8"
+          }
+        }
+      }
+    },
+    "interface_nets": {
+      "mac_phy_ch1_m_axis_rx": {
+        "interface_ports": [
+          "m_axis_rx_0",
+          "mac_phy_ch1/m_axis_rx",
+          "system_ila_mac_phy2/SLOT_3_AXIS"
+        ]
+      },
+      "refclk_diff_port_1": {
+        "interface_ports": [
+          "refclk_diff_port",
+          "mac_phy_ch0/refclk_diff_port"
+        ]
+      },
+      "s_axis_pause_1": {
+        "interface_ports": [
+          "s_axis_pause_ch0",
+          "mac_phy_ch0/s_axis_pause"
+        ]
+      },
+      "s_axis_tx_0_1": {
+        "interface_ports": [
+          "s_axis_tx_0",
+          "mac_phy_ch0/s_axis_tx",
+          "system_ila_mac_phy2/SLOT_0_AXIS"
+        ]
+      },
+      "mac_phy_ch0_m_axis_rx": {
+        "interface_ports": [
+          "m_axis_rx_1",
+          "mac_phy_ch0/m_axis_rx",
+          "system_ila_mac_phy2/SLOT_1_AXIS"
+        ]
+      },
+      "s_axis_pause_1_1": {
+        "interface_ports": [
+          "s_axis_pause_ch1",
+          "mac_phy_ch1/s_axis_pause"
+        ]
+      },
+      "mac_phy_ch0_tx_statistics": {
+        "interface_ports": [
+          "tx_statistics_ch1",
+          "mac_phy_ch0/tx_statistics"
+        ]
+      },
+      "s_axis_tx_1_1": {
+        "interface_ports": [
+          "s_axis_tx_1",
+          "mac_phy_ch1/s_axis_tx",
+          "system_ila_mac_phy2/SLOT_2_AXIS"
+        ]
+      },
+      "mac_phy_ch0_rx_statistics": {
+        "interface_ports": [
+          "rx_statistics_ch1",
+          "mac_phy_ch0/rx_statistics"
+        ]
+      },
+      "mac_phy_ch1_tx_statistics": {
+        "interface_ports": [
+          "tx_statistics_ch0",
+          "mac_phy_ch1/tx_statistics"
+        ]
+      },
+      "mac_phy_ch1_rx_statistics": {
+        "interface_ports": [
+          "rx_statistics_ch0",
+          "mac_phy_ch1/rx_statistics"
+        ]
+      }
+    },
+    "nets": {
+      "channel_1_rx_resetdone": {
+        "ports": [
+          "mac_phy_ch1/rx_resetdone",
+          "rx_resetdone_ch1"
+        ],
+        "hdl_attributes": {
+          "DEBUG_IN_BD": {
+            "value": "true"
+          },
+          "MARK_DEBUG": {
+            "value": "true"
+          }
+        }
+      },
+      "channel_1_tx_disable": {
+        "ports": [
+          "mac_phy_ch1/tx_disable",
+          "tx_disable_ch1"
+        ]
+      },
+      "channel_1_tx_resetdone": {
+        "ports": [
+          "mac_phy_ch1/tx_resetdone",
+          "tx_resetdone_ch1"
+        ],
+        "hdl_attributes": {
+          "DEBUG_IN_BD": {
+            "value": "true"
+          },
+          "MARK_DEBUG": {
+            "value": "true"
+          }
+        }
+      },
+      "channel_1_txclk322": {
+        "ports": [
+          "mac_phy_ch1/txclk322",
+          "txclk322_ch1"
+        ]
+      },
+      "channel_1_txn": {
+        "ports": [
+          "mac_phy_ch1/txn",
+          "txn_ch1"
+        ]
+      },
+      "channel_1_txp": {
+        "ports": [
+          "mac_phy_ch1/txp",
+          "txp_ch1"
+        ]
+      },
+      "mac_phy_ch0_areset_clk156_out": {
+        "ports": [
+          "mac_phy_ch0/areset_clk156_out",
+          "mac_phy_ch1/areset_clk156"
+        ]
+      },
+      "mac_phy_ch0_gtrxreset_out": {
+        "ports": [
+          "mac_phy_ch0/gtrxreset_out",
+          "mac_phy_ch1/gtrxreset"
+        ]
+      },
+      "mac_phy_ch0_gttxreset_out": {
+        "ports": [
+          "mac_phy_ch0/gttxreset_out",
+          "mac_phy_ch1/gttxreset"
+        ]
+      },
+      "mac_phy_ch0_qpll0lock_out": {
+        "ports": [
+          "mac_phy_ch0/qpll0lock_out",
+          "mac_phy_ch1/qpll0lock"
+        ],
+        "hdl_attributes": {
+          "DEBUG_IN_BD": {
+            "value": "true"
+          }
+        }
+      },
+      "mac_phy_ch0_qpll0outclk_out": {
+        "ports": [
+          "mac_phy_ch0/qpll0outclk_out",
+          "mac_phy_ch1/qpll0outclk"
+        ]
+      },
+      "mac_phy_ch0_qpll0outrefclk_out": {
+        "ports": [
+          "mac_phy_ch0/qpll0outrefclk_out",
+          "mac_phy_ch1/qpll0outrefclk"
+        ]
+      },
+      "mac_phy_ch0_reset_counter_done_out": {
+        "ports": [
+          "mac_phy_ch0/reset_counter_done_out",
+          "mac_phy_ch1/reset_counter_done"
+        ]
+      },
+      "mac_phy_ch0_resetdone": {
+        "ports": [
+          "mac_phy_ch0/resetdone",
+          "resetdone_ch0"
+        ],
+        "hdl_attributes": {
+          "DEBUG_IN_BD": {
+            "value": "true"
+          }
+        }
+      },
+      "mac_phy_ch0_txuserrdy_out": {
+        "ports": [
+          "mac_phy_ch0/txuserrdy_out",
+          "mac_phy_ch1/txuserrdy"
+        ]
+      },
+      "mac_phy_ch0_txusrclk2_out": {
+        "ports": [
+          "mac_phy_ch0/txusrclk2_out",
+          "mac_phy_ch1/txusrclk2"
+        ]
+      },
+      "mac_phy_ch0_txusrclk_out": {
+        "ports": [
+          "mac_phy_ch0/txusrclk_out",
+          "mac_phy_ch1/txusrclk"
+        ]
+      },
+      "prtad_1": {
+        "ports": [
+          "prtad_ch0",
+          "mac_phy_ch0/prtad"
+        ]
+      },
+      "prtad_2": {
+        "ports": [
+          "prtad_ch1",
+          "mac_phy_ch1/prtad"
+        ]
+      },
+      "reset_1": {
+        "ports": [
+          "reset",
+          "mac_phy_ch0/areset",
+          "mac_phy_ch1/areset"
+        ]
+      },
+      "reset_n_mac_1": {
+        "ports": [
+          "reset_n",
+          "mac_phy_ch0/rx_axis_aresetn",
+          "mac_phy_ch1/rx_axis_aresetn",
+          "system_ila_mac_phy2/resetn"
+        ]
+      },
+      "rst_clk_156_156M_peripheral_aresetn": {
+        "ports": [
+          "aux_resetn",
+          "s_axi_aresetn",
+          "mac_phy_ch0/s_axi_aresetn",
+          "mac_phy_ch1/s_axi_aresetn"
+        ]
+      },
+      "rxn_1": {
+        "ports": [
+          "rxn_ch0",
+          "mac_phy_ch0/rxn"
+        ]
+      },
+      "rxn_2": {
+        "ports": [
+          "rxn_ch1",
+          "mac_phy_ch1/rxn"
+        ]
+      },
+      "rxp_1": {
+        "ports": [
+          "rxp_ch0",
+          "mac_phy_ch0/rxp"
+        ]
+      },
+      "rxp_2": {
+        "ports": [
+          "rxp_ch1",
+          "mac_phy_ch1/rxp"
+        ]
+      },
+      "s_axis_pause_tdata_1": {
+        "ports": [
+          "xlconstant_8b0/dout",
+          "mac_phy_ch0/tx_ifg_delay",
+          "mac_phy_ch1/tx_ifg_delay"
+        ]
+      },
+      "s_axis_pause_tvalid_1": {
+        "ports": [
+          "xlconstant_1b0/dout",
+          "mac_phy_ch0/tx_fault",
+          "mac_phy_ch1/tx_fault"
+        ]
+      },
+      "sim_speedup_control_1": {
+        "ports": [
+          "sim_speedup_control_ch0",
+          "mac_phy_ch0/sim_speedup_control"
+        ]
+      },
+      "sim_speedup_control_1_1": {
+        "ports": [
+          "sim_speedup_control_ch1",
+          "mac_phy_ch1/sim_speedup_control"
+        ]
+      },
+      "ten_gig_eth_pcs_pma_ch0_tx_disable": {
+        "ports": [
+          "mac_phy_ch0/tx_disable",
+          "tx_disable_ch0"
+        ]
+      },
+      "ten_gig_eth_pcs_pma_ch0_txn": {
+        "ports": [
+          "mac_phy_ch0/txn",
+          "txn_ch0"
+        ]
+      },
+      "ten_gig_eth_pcs_pma_ch0_txp": {
+        "ports": [
+          "mac_phy_ch0/txp",
+          "txp_ch0"
+        ]
+      },
+      "xlconstant_0_const": {
+        "ports": [
+          "xlconstant_1b1/dout",
+          "mac_phy_ch0/rx_dcm_locked",
+          "mac_phy_ch1/rx_dcm_locked"
+        ]
+      },
+      "mac_phy_ch0_core_status": {
+        "ports": [
+          "mac_phy_ch0/core_status",
+          "core_status_ch0"
+        ]
+      },
+      "mac_phy_ch1_core_status": {
+        "ports": [
+          "mac_phy_ch1/core_status",
+          "core_status_ch1"
+        ]
+      },
+      "microblaze_0_Clk": {
+        "ports": [
+          "mb_clk",
+          "mac_phy_ch0/s_axi_aclk",
+          "mac_phy_ch1/s_axi_aclk"
+        ]
+      },
+      "mac_phy_ch0_core_clk156_out": {
+        "ports": [
+          "mac_phy_ch0/core_clk156_out",
+          "core_clk156_out",
+          "mac_phy_ch0/clk156",
+          "mac_phy_ch1/clk156",
+          "mac_phy_ch1/dclk",
+          "system_ila_mac_phy2/clk"
+        ]
+      },
+      "xlconstant_3b101_dout": {
+        "ports": [
+          "xlconstant_3b101/dout",
+          "mac_phy_ch1/pma_pmd_type"
+        ]
+      }
+    }
+  }
+}

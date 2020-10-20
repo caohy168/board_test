@@ -1,0 +1,32 @@
+$date
+        2019-Oct-23 15:31:16
+$end
+$version
+        Vivado v2017.3 (64-bit)
+$end
+$timescale
+        1ps
+$end
+$scope module dut $end
+$var reg 32 " tb_tg_config_ch0 [31:0] $end
+$var reg 32 B tb_tg_config_ch1 [31:0] $end
+$var reg 8 b xphy_status_ch0 [7:0] $end
+$var reg 8 j xphy_status_ch1 [7:0] $end
+$var reg 64 r s_axis_tx_0_tdata [63:0] $end
+$var reg 64 T" m_axis_rx_0_tdata [63:0] $end
+$var reg 1 6# reset_sys $end
+$var reg 1 7# rx_statistics_valid_ch0 $end
+$var reg 30 8# rx_statistics_vector_ch0 [29:0] $end
+$var reg 1 V# tx_statistics_valid_ch0 $end
+$var reg 26 W# tx_statistics_vector_ch0 [25:0] $end
+$var reg 1 q# rx_statistics_valid_ch1 $end
+$var reg 30 r# rx_statistics_vector_ch1 [29:0] $end
+$var reg 1 2$ tx_statistics_valid_ch1 $end
+$var reg 26 3$ tx_statistics_vector_ch1 [25:0] $end
+$var reg 64 M$ s_axis_tx_1_tdata [63:0] $end
+$var reg 64 /% m_axis_rx_1_tdata [63:0] $end
+$var reg 1 o% _TRIGGER $end
+$var reg 1 p% _WINDOW $end
+$var reg 1 q% _GAP $end
+$upscope $end
+$enddefinitions $end

@@ -1,0 +1,142 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.19  2019-03-26 bk=1.5019 VDI=41 GEI=35 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port S00_AXI -pg 1 -lvl 0 -x -10 -y 860 -defaultsOSRD
+preplace port CLKIN -pg 1 -lvl 0 -x -10 -y 90 -defaultsOSRD
+preplace port CLK_125MHZ_N -pg 1 -lvl 0 -x -10 -y 410 -defaultsOSRD
+preplace port CLK_125MHZ_P -pg 1 -lvl 0 -x -10 -y 390 -defaultsOSRD
+preplace port EMCCLK -pg 1 -lvl 0 -x -10 -y 1640 -defaultsOSRD
+preplace port FMC_HPC_CLK0_N -pg 1 -lvl 0 -x -10 -y 250 -defaultsOSRD
+preplace port FMC_HPC_CLK0_P -pg 1 -lvl 0 -x -10 -y 230 -defaultsOSRD
+preplace port FMC_HPC_CLK1_N -pg 1 -lvl 0 -x -10 -y 570 -defaultsOSRD
+preplace port FMC_HPC_CLK1_P -pg 1 -lvl 0 -x -10 -y 550 -defaultsOSRD
+preplace port FMC_HPC_GBTCLK0_N -pg 1 -lvl 0 -x -10 -y 1800 -defaultsOSRD
+preplace port FMC_HPC_GBTCLK0_P -pg 1 -lvl 0 -x -10 -y 1780 -defaultsOSRD
+preplace port FMC_HPC_GBTCLK1_N -pg 1 -lvl 0 -x -10 -y 730 -defaultsOSRD
+preplace port FMC_HPC_GBTCLK1_P -pg 1 -lvl 0 -x -10 -y 710 -defaultsOSRD
+preplace port FMC_LPC_CLK0_N -pg 1 -lvl 0 -x -10 -y 1960 -defaultsOSRD
+preplace port FMC_LPC_CLK0_P -pg 1 -lvl 0 -x -10 -y 1940 -defaultsOSRD
+preplace port FMC_LPC_CLK1_N -pg 1 -lvl 0 -x -10 -y 2120 -defaultsOSRD
+preplace port FMC_LPC_CLK1_P -pg 1 -lvl 0 -x -10 -y 2100 -defaultsOSRD
+preplace port FMC_LPC_GBTCLK0_N -pg 1 -lvl 0 -x -10 -y 2280 -defaultsOSRD
+preplace port FMC_LPC_GBTCLK0_P -pg 1 -lvl 0 -x -10 -y 2260 -defaultsOSRD
+preplace port MGT_SI570_CLOCK_N -pg 1 -lvl 0 -x -10 -y 2440 -defaultsOSRD
+preplace port MGT_SI570_CLOCK_P -pg 1 -lvl 0 -x -10 -y 2420 -defaultsOSRD
+preplace port REF_CLK_I -pg 1 -lvl 0 -x -10 -y 610 -defaultsOSRD
+preplace port SI5328_OUT_N -pg 1 -lvl 0 -x -10 -y 2600 -defaultsOSRD
+preplace port SI5328_OUT_P -pg 1 -lvl 0 -x -10 -y 2580 -defaultsOSRD
+preplace port SMA_MGT_REFCLK_N -pg 1 -lvl 0 -x -10 -y 2760 -defaultsOSRD
+preplace port SMA_MGT_REFCLK_P -pg 1 -lvl 0 -x -10 -y 2740 -defaultsOSRD
+preplace port USER_SI570_CLOCK_N -pg 1 -lvl 0 -x -10 -y 3040 -defaultsOSRD
+preplace port USER_SI570_CLOCK_P -pg 1 -lvl 0 -x -10 -y 3020 -defaultsOSRD
+preplace port s_axi_aclk -pg 1 -lvl 0 -x -10 -y 880 -defaultsOSRD
+preplace portBus ARESETN -pg 1 -lvl 0 -x -10 -y 900 -defaultsOSRD
+preplace portBus REC_CLOCK_N -pg 1 -lvl 3 -x 880 -y 3090 -defaultsOSRD
+preplace portBus REC_CLOCK_P -pg 1 -lvl 3 -x 880 -y 3070 -defaultsOSRD
+preplace portBus RST_I -pg 1 -lvl 0 -x -10 -y 590 -defaultsOSRD
+preplace portBus USER_SMA_CLOCK_N -pg 1 -lvl 3 -x 880 -y 3210 -defaultsOSRD
+preplace portBus USER_SMA_CLOCK_P -pg 1 -lvl 3 -x 880 -y 3190 -defaultsOSRD
+preplace portBus s_axi_aresetn -pg 1 -lvl 0 -x -10 -y 920 -defaultsOSRD
+preplace inst CLK_125MHZ_ctr -pg 1 -lvl 1 -x 190 -y 380 -defaultsOSRD
+preplace inst EMCCLK_ctr -pg 1 -lvl 1 -x 190 -y 1620 -defaultsOSRD
+preplace inst FMC_HPC_CLK0_ctr -pg 1 -lvl 1 -x 190 -y 220 -defaultsOSRD
+preplace inst FMC_HPC_CLK1_ctr -pg 1 -lvl 1 -x 190 -y 540 -defaultsOSRD
+preplace inst FMC_HPC_GBTCLK0_ctr -pg 1 -lvl 1 -x 190 -y 1770 -defaultsOSRD
+preplace inst FMC_HPC_GBTCLK1_ctr -pg 1 -lvl 1 -x 190 -y 700 -defaultsOSRD
+preplace inst FMC_LPC_CLK0_ctr -pg 1 -lvl 1 -x 190 -y 1930 -defaultsOSRD
+preplace inst FMC_LPC_CLK1_ctr -pg 1 -lvl 1 -x 190 -y 2090 -defaultsOSRD
+preplace inst FMC_LPC_GBTCLK0_ctr2 -pg 1 -lvl 1 -x 190 -y 2250 -defaultsOSRD
+preplace inst MGT_SI570_CLOCK_ctr -pg 1 -lvl 1 -x 190 -y 2410 -defaultsOSRD
+preplace inst SI5328_OUT_ctr -pg 1 -lvl 1 -x 190 -y 2570 -defaultsOSRD
+preplace inst SMA_MGT_REFCLK_ctr1 -pg 1 -lvl 1 -x 190 -y 2730 -defaultsOSRD
+preplace inst SYSCLK300_ctr -pg 1 -lvl 1 -x 190 -y 70 -defaultsOSRD
+preplace inst USER_SI570_CLOCK_ctr -pg 1 -lvl 1 -x 190 -y 3010 -defaultsOSRD
+preplace inst CLK_125MHZ_gpio -pg 1 -lvl 2 -x 670 -y 450 -defaultsOSRD
+preplace inst EMCCLK_gpio -pg 1 -lvl 2 -x 670 -y 1330 -defaultsOSRD
+preplace inst FMC_HPC_CLK0_gpio -pg 1 -lvl 2 -x 670 -y 280 -defaultsOSRD
+preplace inst FMC_HPC_CLK1_gpio -pg 1 -lvl 2 -x 670 -y 610 -defaultsOSRD
+preplace inst FMC_HPC_GBTCLK0_gpio -pg 1 -lvl 2 -x 670 -y 1500 -defaultsOSRD
+preplace inst FMC_HPC_GBTCLK1_gpio -pg 1 -lvl 2 -x 670 -y 910 -defaultsOSRD
+preplace inst FMC_LPC_CLK0_gpio -pg 1 -lvl 2 -x 670 -y 1190 -defaultsOSRD
+preplace inst FMC_LPC_CLK1_gpio -pg 1 -lvl 2 -x 670 -y 1050 -defaultsOSRD
+preplace inst FMC_LPC_GBTCLK0_gpio -pg 1 -lvl 2 -x 670 -y 1670 -defaultsOSRD
+preplace inst MGT_SI570_CLOCK_gpio -pg 1 -lvl 2 -x 670 -y 1830 -defaultsOSRD
+preplace inst REC_CLOCK_OUT -pg 1 -lvl 2 -x 670 -y 3080 -defaultsOSRD
+preplace inst SI5328_OUT_gpio -pg 1 -lvl 2 -x 670 -y 1990 -defaultsOSRD
+preplace inst SMA_MGT_REFCLK_gpio -pg 1 -lvl 2 -x 670 -y 2290 -defaultsOSRD
+preplace inst SYSCLK300_gpio -pg 1 -lvl 2 -x 670 -y 750 -defaultsOSRD
+preplace inst USER_SI570_CLOCK_gpio -pg 1 -lvl 2 -x 670 -y 2150 -defaultsOSRD
+preplace inst USER_SMA_CLOCK_OUT -pg 1 -lvl 2 -x 670 -y 3200 -defaultsOSRD
+preplace inst axi_interconnect_0 -pg 1 -lvl 1 -x 190 -y 1180 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 190 -y 2870 -defaultsOSRD
+preplace netloc ARESETN_1 1 0 1 NJ 900
+preplace netloc CLKIN_1 1 0 1 NJ 90
+preplace netloc CLK_125MHZ_FREQ_CNT_O 1 1 2 340J 360 850
+preplace netloc CPU_RESET_1 1 0 1 10 50n
+preplace netloc DIFF_CLKIN_N_1 1 0 1 NJ 410
+preplace netloc DIFF_CLKIN_N_2 1 0 1 NJ 3040
+preplace netloc DIFF_CLKIN_N_3 1 0 1 NJ 250
+preplace netloc DIFF_CLKIN_N_4 1 0 1 NJ 570
+preplace netloc DIFF_CLKIN_N_5 1 0 1 NJ 1960
+preplace netloc DIFF_CLKIN_N_6 1 0 1 NJ 2120
+preplace netloc DIFF_CLKIN_P_1 1 0 1 NJ 390
+preplace netloc DIFF_CLKIN_P_2 1 0 1 NJ 3020
+preplace netloc DIFF_CLKIN_P_3 1 0 1 NJ 230
+preplace netloc DIFF_CLKIN_P_4 1 0 1 NJ 550
+preplace netloc DIFF_CLKIN_P_5 1 0 1 NJ 1940
+preplace netloc DIFF_CLKIN_P_6 1 0 1 NJ 2100
+preplace netloc DIFF_MGTE3_N_2 1 0 1 NJ 2280
+preplace netloc DIFF_MGTE3_N_3 1 0 1 NJ 1800
+preplace netloc DIFF_MGTE3_N_4 1 0 1 NJ 730
+preplace netloc DIFF_MGTE3_N_5 1 0 1 NJ 2760
+preplace netloc DIFF_MGTE3_N_6 1 0 1 NJ 2440
+preplace netloc DIFF_MGTE3_N_7 1 0 1 NJ 2600
+preplace netloc DIFF_MGTE3_P_2 1 0 1 NJ 2260
+preplace netloc DIFF_MGTE3_P_3 1 0 1 NJ 1780
+preplace netloc DIFF_MGTE3_P_4 1 0 1 NJ 710
+preplace netloc DIFF_MGTE3_P_5 1 0 1 NJ 2740
+preplace netloc DIFF_MGTE3_P_6 1 0 1 NJ 2420
+preplace netloc DIFF_MGTE3_P_7 1 0 1 NJ 2580
+preplace netloc EMCCLK_1 1 0 1 NJ 1640
+preplace netloc EMCCLK_ctr_FREQ_CNT_O 1 1 2 470 1590 840
+preplace netloc FMC_HPC_CLK0_ctr_FREQ_CNT_O 1 1 2 340J 200 830
+preplace netloc FMC_HPC_CLK1_ctr_FREQ_CNT_O 1 1 2 350 370 830
+preplace netloc FMC_HPC_GBTCLK0_ctr_FREQ_CNT_O 1 1 2 470 1750 830
+preplace netloc FMC_HPC_GBTCLK1_ctr_FREQ_CNT_O 1 1 2 370 530 850
+preplace netloc FMC_LPC_CLK0_ctr_FREQ_CNT_O 1 1 2 470J 1910 850
+preplace netloc FMC_LPC_CLK1_ctr_FREQ_CNT_O 1 1 2 470J 2070 860
+preplace netloc FMC_LPC_GBTCLK0_ctr2_FREQ_CNT_O 1 1 2 340 2370 840
+preplace netloc MGT_SI570_CLOCK_ctr_FREQ_CNT_O 1 1 2 N 2410 830
+preplace netloc SI5328_OUT_ctr_FREQ_CNT_O 1 1 2 N 2570 820
+preplace netloc SMA_MGT_REFCLK_ctr1_FREQ_CNT_O 1 1 2 NJ 2730 810
+preplace netloc SYSCLK300_FREQ_CNT_O 1 1 2 NJ 70 860
+preplace netloc USER_SI570_CLOCK_ctr_FREQ_CNT_O 1 1 2 NJ 3010 850
+preplace netloc clk_wiz_0_clk_out1 1 1 1 400 2870n
+preplace netloc clk_wiz_0_clk_out2 1 0 1 20 70n
+preplace netloc s_axi_aclk_1 1 0 2 40 790 440
+preplace netloc s_axi_aresetn_1 1 0 2 30 800 450
+preplace netloc util_ds_buf_0_OBUF_DS_N 1 2 1 NJ 3090
+preplace netloc util_ds_buf_0_OBUF_DS_P 1 2 1 NJ 3070
+preplace netloc util_ds_buf_1_OBUF_DS_N 1 2 1 NJ 3210
+preplace netloc util_ds_buf_1_OBUF_DS_P 1 2 1 NJ 3190
+preplace netloc axi_interconnect_0_M06_AXI 1 1 1 360 260n
+preplace netloc axi_interconnect_0_M02_AXI 1 1 1 410 1030n
+preplace netloc axi_interconnect_0_M00_AXI 1 1 1 430 1050n
+preplace netloc axi_interconnect_0_M03_AXI 1 1 1 470 1110n
+preplace netloc axi_interconnect_0_M01_AXI 1 1 1 420 1070n
+preplace netloc axi_interconnect_0_M09_AXI 1 1 1 390 1230n
+preplace netloc axi_interconnect_0_M04_AXI 1 1 1 400 730n
+preplace netloc axi_interconnect_0_M08_AXI 1 1 1 410 1210n
+preplace netloc S00_AXI_1 1 0 1 NJ 860
+preplace netloc axi_interconnect_0_M11_AXI 1 1 1 360 1270n
+preplace netloc axi_interconnect_0_M07_AXI 1 1 1 350 1190n
+preplace netloc axi_interconnect_0_M05_AXI 1 1 1 390 590n
+preplace netloc axi_interconnect_0_M12_AXI 1 1 1 460 890n
+preplace netloc axi_interconnect_0_M10_AXI 1 1 1 380 430n
+preplace netloc axi_interconnect_0_M13_AXI 1 1 1 N 1310
+levelinfo -pg 1 -10 190 670 880
+pagesize -pg 1 -db -bbox -sgen -220 -10 1120 3270
+"
+}
+

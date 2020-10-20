@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/kcu105_10gbaser_trd/hardware/vivado/runs/impl_run/10gbaser_trd.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="237443fs"></ZoomStartTime>
+      <ZoomEndTime time="245184fs"></ZoomEndTime>
+      <Cursor1Time time="243000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="322"></NameColumnWidth>
+      <ValueColumnWidth column_width="157"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject fp_name="axi_stream_gen_mon_0/rx_axis_tdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/rx_axis_tdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_axis_tdata[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/rx_axis_tkeep" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/rx_axis_tkeep[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_axis_tkeep[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/rx_axis_tlast" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/rx_axis_tlast</obj_property>
+      <obj_property name="ObjectShortName">rx_axis_tlast</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/rx_axis_tready" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/rx_axis_tready</obj_property>
+      <obj_property name="ObjectShortName">rx_axis_tready</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/rx_axis_tready_lb" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/rx_axis_tready_lb</obj_property>
+      <obj_property name="ObjectShortName">rx_axis_tready_lb</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/rx_axis_tuser" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/rx_axis_tuser</obj_property>
+      <obj_property name="ObjectShortName">rx_axis_tuser</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/rx_axis_tvalid" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/rx_axis_tvalid</obj_property>
+      <obj_property name="ObjectShortName">rx_axis_tvalid</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tdata[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tdata_g" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tdata_g[63:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tdata_g[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tdata_lb" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tdata_lb[63:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tdata_lb[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tkeep" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tkeep[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tkeep[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tkeep_g" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tkeep_g[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tkeep_g[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tkeep_lb" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tkeep_lb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tkeep_lb[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tlast" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tlast</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tlast</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tlast_g" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tlast_g</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tlast_g</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tlast_lb" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tlast_lb</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tlast_lb</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tready" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tready</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tready</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tready_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tready_1</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tready_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tuser" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tuser</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tuser</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tuser_g" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tuser_g</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tuser_g</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tuser_lb" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tuser_lb</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tuser_lb</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tvalid" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tvalid</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tvalid</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tvalid_g" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tvalid_g</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tvalid_g</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="axi_stream_gen_mon_0/tx_axis_tvalid_lb" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">axi_stream_gen_mon_0/tx_axis_tvalid_lb</obj_property>
+      <obj_property name="ObjectShortName">tx_axis_tvalid_lb</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

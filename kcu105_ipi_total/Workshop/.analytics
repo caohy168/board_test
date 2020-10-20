@@ -1,0 +1,10 @@
+timestamp=[2019-12-10 16:31:26], mode=WORKBENCH_START, duration=0:00:05.004, duration_ms=5004, data={}
+timestamp=[2019-12-10 16:31:26], mode=WORKBENCH_UI_INIT, duration=0:00:00.431, duration_ms=431, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2019-12-10 16:33:24], mode=APP_CREATION, duration=0:00:13.257, duration_ms=13257, data={name=tpu_sever, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=tpu_top, application_type=application}
+timestamp=[2019-12-10 16:34:03], mode=PLATFORM_GENERATION, duration=0:00:02.345, duration_ms=2345, data={name=tpu_top}
+timestamp=[2019-12-10 16:34:36], mode=PLATFORM_GENERATION, duration=0:00:32.913, duration_ms=32913, data={name=tpu_top}
+timestamp=[2019-12-10 16:51:36], mode=WORKBENCH_START, duration=0:00:08.459, duration_ms=8459, data={}
+timestamp=[2019-12-10 16:51:37], mode=WORKBENCH_UI_INIT, duration=0:00:00.828, duration_ms=828, data={editors_count=6, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,tpu_sever,tpu_sever_system,tpu_top}
+timestamp=[2020-05-27 13:42:53], mode=WORKBENCH_START, duration=0:00:09.213, duration_ms=9213, data={}
+timestamp=[2020-05-27 13:42:54], mode=WORKBENCH_UI_INIT, duration=0:00:00.882, duration_ms=882, data={editors_count=6, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,tpu_sever,tpu_sever_system,tpu_top}
+timestamp=[2020-05-27 13:43:45], mode=PLATFORM_GENERATION, duration=0:00:30.584, duration_ms=30584, data={name=tpu_top}

@@ -1,0 +1,6 @@
+verilog xil_defaultlib --include "../../../../10gbaser_trd.srcs/sources_1/ip/ila_radio/hdl/verilog" \
+"../../../../10gbaser_trd.srcs/sources_1/ip/ila_radio/sim/ila_radio.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

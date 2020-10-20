@@ -1,0 +1,139 @@
+15:23:43 **** Build of project kcu105_10gbaser_top_bsp ****
+make -k all 
+"Running Make include in microblaze_sub_system_microblaze_0/libsrc/bram_v4_2/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/bram_v4_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in microblaze_sub_system_microblaze_0/libsrc/cpu_v2_8/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/cpu_v2_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in microblaze_sub_system_microblaze_0/libsrc/intc_v3_8/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/intc_v3_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in microblaze_sub_system_microblaze_0/libsrc/standalone_v6_8/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/standalone_v6_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in microblaze_sub_system_microblaze_0/libsrc/sysmon_v7_5/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/sysmon_v7_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in microblaze_sub_system_microblaze_0/libsrc/uartlite_v3_2/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/uartlite_v3_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make libs in microblaze_sub_system_microblaze_0/libsrc/bram_v4_2/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/bram_v4_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling bram"
+mb-ar: creating ../../../lib/libxil.a
+"Running Make libs in microblaze_sub_system_microblaze_0/libsrc/cpu_v2_8/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/cpu_v2_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling cpu"
+"Running Make libs in microblaze_sub_system_microblaze_0/libsrc/intc_v3_8/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/intc_v3_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling intc"
+"Running Make libs in microblaze_sub_system_microblaze_0/libsrc/standalone_v6_8/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/standalone_v6_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling standalone";
+microblaze_sleep.c:77:9: note: #pragma message: For the sleep routines, assembly instructions are used
+ #pragma message ("For the sleep routines, assembly instructions are used")
+         ^~~~~~~
+"Running Make libs in microblaze_sub_system_microblaze_0/libsrc/sysmon_v7_5/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/sysmon_v7_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling sysmon"
+"Running Make libs in microblaze_sub_system_microblaze_0/libsrc/uartlite_v3_2/src"
+make -C microblaze_sub_system_microblaze_0/libsrc/uartlite_v3_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling uartlite"
+'Finished building libraries'
+
+**** Build of configuration Debug for project kcu105_10gbaser_top ****
+
+Nothing to build for project kcu105_10gbaser_top
+15:26:18 **** Auto Build of configuration Debug for project kcu105_10gbaser_top ****
+make all 
+'Building file: ../platform.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"platform.o" -I../../kcu105_10gbaser_top_bsp/microblaze_sub_system_microblaze_0/include -mlittle-endian -mxl-barrel-shift -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"platform.d" -MT"platform.o" -o "platform.o" "../platform.c"
+'Finished building: ../platform.c'
+' '
+'Building file: ../regaccess.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"regaccess.o" -I../../kcu105_10gbaser_top_bsp/microblaze_sub_system_microblaze_0/include -mlittle-endian -mxl-barrel-shift -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"regaccess.d" -MT"regaccess.o" -o "regaccess.o" "../regaccess.c"
+In file included from ../regaccess.c:41:0:
+../CommandDesc.h:14:24: error: 'XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR' undeclared here (not in a function); did you mean 'XPAR_AXI_UARTLITE_0_BASEADDR'?
+ #define ETH0_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR
+                        ^
+../CommandDesc.h:14:24: note: in definition of macro 'ETH0_BASE'
+ #define ETH0_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR
+                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../CommandDesc.h:15:24: error: 'XPAR_ETH_AXI_STREAM_GEN_MON_1_BASEADDR' undeclared here (not in a function); did you mean 'XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR'?
+ #define ETH1_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_1_BASEADDR
+                        ^
+../CommandDesc.h:15:24: note: in definition of macro 'ETH1_BASE'
+ #define ETH1_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_1_BASEADDR
+                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make: *** [subdir.mk:26: regaccess.o] Error 1
+15:27:27 **** Auto Build of configuration Debug for project kcu105_10gbaser_top ****
+make all 
+'Building file: ../regaccess.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"regaccess.o" -I../../kcu105_10gbaser_top_bsp/microblaze_sub_system_microblaze_0/include -mlittle-endian -mxl-barrel-shift -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"regaccess.d" -MT"regaccess.o" -o "regaccess.o" "../regaccess.c"
+In file included from ../regaccess.c:41:0:
+../CommandDesc.h:368:12: error: 'ETH0_BASE' undeclared here (not in a function); did you mean 'MAC0_BASE'?
+           (ETH0_BASE + TRAFFIC_GEN_CFG_OFFSET                               ),        //0         COMMAND1
+            ^~~~~~~~~
+            MAC0_BASE
+../CommandDesc.h:369:9: error: 'ETH1_BASE' undeclared here (not in a function); did you mean 'ETH0_BASE'?
+        (ETH1_BASE + TRAFFIC_GEN_CFG_OFFSET                           ),        //1         COMMAND2
+         ^~~~~~~~~
+         ETH0_BASE
+make: *** [subdir.mk:26: regaccess.o] Error 1
+15:28:05 **** Auto Build of configuration Debug for project kcu105_10gbaser_top ****
+make all 
+'Building file: ../regaccess.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"regaccess.o" -I../../kcu105_10gbaser_top_bsp/microblaze_sub_system_microblaze_0/include -mlittle-endian -mxl-barrel-shift -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"regaccess.d" -MT"regaccess.o" -o "regaccess.o" "../regaccess.c"
+In file included from ../regaccess.c:41:0:
+../CommandDesc.h:14:24: error: 'XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR' undeclared here (not in a function); did you mean 'XPAR_AXI_UARTLITE_0_BASEADDR'?
+ #define ETH0_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR
+                        ^
+../CommandDesc.h:14:24: note: in definition of macro 'ETH0_BASE'
+ #define ETH0_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR
+                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../CommandDesc.h:15:24: error: 'XPAR_ETH_AXI_STREAM_GEN_MON_1_BASEADDR' undeclared here (not in a function); did you mean 'XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR'?
+ #define ETH1_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_1_BASEADDR
+                        ^
+../CommandDesc.h:15:24: note: in definition of macro 'ETH1_BASE'
+ #define ETH1_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_1_BASEADDR
+                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make: *** [subdir.mk:26: regaccess.o] Error 1
+15:28:27 **** Auto Build of configuration Debug for project kcu105_10gbaser_top ****
+make all 
+'Building file: ../regaccess.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"regaccess.o" -I../../kcu105_10gbaser_top_bsp/microblaze_sub_system_microblaze_0/include -mlittle-endian -mxl-barrel-shift -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"regaccess.d" -MT"regaccess.o" -o "regaccess.o" "../regaccess.c"
+In file included from ../regaccess.c:41:0:
+../CommandDesc.h:17:24: error: 'XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR' undeclared here (not in a function); did you mean 'XPAR_AXI_UARTLITE_0_BASEADDR'?
+ #define ETH0_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR
+                        ^
+../CommandDesc.h:17:24: note: in definition of macro 'ETH0_BASE'
+ #define ETH0_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR
+                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../CommandDesc.h:18:24: error: 'XPAR_ETH_AXI_STREAM_GEN_MON_1_BASEADDR' undeclared here (not in a function); did you mean 'XPAR_ETH_AXI_STREAM_GEN_MON_0_BASEADDR'?
+ #define ETH1_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_1_BASEADDR
+                        ^
+../CommandDesc.h:18:24: note: in definition of macro 'ETH1_BASE'
+ #define ETH1_BASE      XPAR_ETH_AXI_STREAM_GEN_MON_1_BASEADDR
+                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make: *** [subdir.mk:26: regaccess.o] Error 1
+15:30:40 **** Auto Build of configuration Debug for project kcu105_10gbaser_top ****
+make all 
+'Building file: ../regaccess.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"regaccess.o" -I../../kcu105_10gbaser_top_bsp/microblaze_sub_system_microblaze_0/include -mlittle-endian -mxl-barrel-shift -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"regaccess.d" -MT"regaccess.o" -o "regaccess.o" "../regaccess.c"
+'Finished building: ../regaccess.c'
+' '
+'Building target: kcu105_10gbaser_top.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../kcu105_10gbaser_top_bsp/microblaze_sub_system_microblaze_0/lib -mlittle-endian -mxl-barrel-shift -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "kcu105_10gbaser_top.elf"  ./platform.o ./regaccess.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: kcu105_10gbaser_top.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size kcu105_10gbaser_top.elf  |tee "kcu105_10gbaser_top.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  68572	   2164	   3304	  74040	  12138	kcu105_10gbaser_top.elf
+'Finished building: kcu105_10gbaser_top.elf.size'
+' '
+15:30:49 **** Incremental Build of configuration Debug for project kcu105_10gbaser_top ****
+make all 
+make: Nothing to be done for 'all'.

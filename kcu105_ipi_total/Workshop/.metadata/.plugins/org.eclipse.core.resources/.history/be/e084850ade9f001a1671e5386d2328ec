@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="tpu_sever" location="C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_sever" platform="C:/Users/dell/Desktop/kcu105_ipi_total/Workshop/tpu_top/export/tpu_top/tpu_top.xpfm" platformUID="xilinx:kcu105::0.0(custom)" systemProject="tpu_sever_system" sysConfig="tpu_top" runtime="cpp" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="a6255957786832ea424297d731534e1a">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1603047197">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.523702899" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="lwip_echo_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX8
+Size               16M
+Start Address      0x00000000
+End Address        0x00FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x0015AA9D    Oct 15 07:16:12 2017    xilinx_pcie3_uscale_ep.bit

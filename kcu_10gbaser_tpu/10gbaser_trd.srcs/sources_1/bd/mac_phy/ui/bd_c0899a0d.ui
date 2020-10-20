@@ -1,0 +1,96 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.895283",
+   "Default View_TopLeft":"-477,336",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.21  2019-05-29 bk=1.5064 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port m_axis_rx -pg 1 -lvl 3 -x 730 -y 90 -defaultsOSRD
+preplace port rx_statistics -pg 1 -lvl 3 -x 730 -y 230 -defaultsOSRD
+preplace port s_axi -pg 1 -lvl 0 -x 0 -y 70 -defaultsOSRD
+preplace port s_axis_pause -pg 1 -lvl 0 -x 0 -y 90 -defaultsOSRD
+preplace port s_axis_tx -pg 1 -lvl 0 -x 0 -y 50 -defaultsOSRD
+preplace port tx_statistics -pg 1 -lvl 3 -x 730 -y 210 -defaultsOSRD
+preplace port areset -pg 1 -lvl 0 -x 0 -y 130 -defaultsOSRD
+preplace port areset_clk156 -pg 1 -lvl 0 -x 0 -y 520 -defaultsOSRD
+preplace port clk156 -pg 1 -lvl 0 -x 0 -y 110 -defaultsOSRD
+preplace port dclk -pg 1 -lvl 0 -x 0 -y 440 -defaultsOSRD
+preplace port gtrxreset -pg 1 -lvl 0 -x 0 -y 560 -defaultsOSRD
+preplace port gttxreset -pg 1 -lvl 0 -x 0 -y 540 -defaultsOSRD
+preplace port qpll0lock -pg 1 -lvl 0 -x 0 -y 600 -defaultsOSRD
+preplace port qpll0outclk -pg 1 -lvl 0 -x 0 -y 620 -defaultsOSRD
+preplace port qpll0outrefclk -pg 1 -lvl 0 -x 0 -y 640 -defaultsOSRD
+preplace port reset_counter_done -pg 1 -lvl 0 -x 0 -y 660 -defaultsOSRD
+preplace port rx_axis_aresetn -pg 1 -lvl 0 -x 0 -y 150 -defaultsOSRD
+preplace port rx_resetdone -pg 1 -lvl 3 -x 730 -y 630 -defaultsOSRD
+preplace port rxn -pg 1 -lvl 0 -x 0 -y 700 -defaultsOSRD
+preplace port rxp -pg 1 -lvl 0 -x 0 -y 680 -defaultsOSRD
+preplace port s_axi_aclk -pg 1 -lvl 0 -x 0 -y 210 -defaultsOSRD
+preplace port sim_speedup_control -pg 1 -lvl 0 -x 0 -y 720 -defaultsOSRD
+preplace port tx_disable -pg 1 -lvl 3 -x 730 -y 670 -defaultsOSRD
+preplace port tx_resetdone -pg 1 -lvl 3 -x 730 -y 610 -defaultsOSRD
+preplace port txclk322 -pg 1 -lvl 3 -x 730 -y 490 -defaultsOSRD
+preplace port txn -pg 1 -lvl 3 -x 730 -y 530 -defaultsOSRD
+preplace port txp -pg 1 -lvl 3 -x 730 -y 510 -defaultsOSRD
+preplace port txuserrdy -pg 1 -lvl 0 -x 0 -y 580 -defaultsOSRD
+preplace port txusrclk -pg 1 -lvl 0 -x 0 -y 460 -defaultsOSRD
+preplace port txusrclk2 -pg 1 -lvl 0 -x 0 -y 480 -defaultsOSRD
+preplace port rxrecclk_out -pg 1 -lvl 3 -x 730 -y 470 -defaultsOSRD
+preplace portBus core_status -pg 1 -lvl 3 -x 730 -y 590 -defaultsOSRD
+preplace portBus prtad -pg 1 -lvl 0 -x 0 -y 740 -defaultsOSRD
+preplace portBus rx_dcm_locked -pg 1 -lvl 0 -x 0 -y 250 -defaultsOSRD
+preplace portBus s_axi_aresetn -pg 1 -lvl 0 -x 0 -y 230 -defaultsOSRD
+preplace portBus tx_fault -pg 1 -lvl 0 -x 0 -y 780 -defaultsOSRD
+preplace portBus tx_ifg_delay -pg 1 -lvl 0 -x 0 -y 170 -defaultsOSRD
+preplace portBus pma_pmd_type -pg 1 -lvl 0 -x 0 -y 830 -defaultsOSRD
+preplace inst ten_gig_eth_mac_ch1 -pg 1 -lvl 1 -x 200 -y 170 -defaultsOSRD
+preplace inst ten_gig_eth_pcs_pma_ch1 -pg 1 -lvl 2 -x 550 -y 560 -defaultsOSRD
+preplace netloc areset_clk156_1 1 0 2 NJ 520 NJ
+preplace netloc channel_1_core_status 1 2 1 NJ 590
+preplace netloc channel_1_rx_resetdone 1 2 1 NJ 630
+preplace netloc channel_1_tx_disable 1 2 1 NJ 670
+preplace netloc channel_1_tx_resetdone 1 2 1 NJ 610
+preplace netloc channel_1_txclk322 1 2 1 NJ 490
+preplace netloc channel_1_txn 1 2 1 NJ 530
+preplace netloc channel_1_txp 1 2 1 NJ 510
+preplace netloc dclk_1 1 0 2 NJ 440 NJ
+preplace netloc gtrxreset_1 1 0 2 NJ 560 NJ
+preplace netloc gttxreset_1 1 0 2 NJ 540 NJ
+preplace netloc hdp_patgen_0_tx_ifg_delay_1 1 0 1 NJ 170
+preplace netloc microblaze_0_Clk 1 0 2 50 420 NJ
+preplace netloc prtad_2 1 0 2 NJ 740 NJ
+preplace netloc qpll0lock_1 1 0 2 NJ 600 NJ
+preplace netloc qpll0outclk_1 1 0 2 NJ 620 NJ
+preplace netloc qpll0outrefclk_1 1 0 2 NJ 640 NJ
+preplace netloc reset_counter_done_1 1 0 2 NJ 660 NJ
+preplace netloc reset_mac 1 0 2 30 500 NJ
+preplace netloc reset_n_mac_1 1 0 1 40 150n
+preplace netloc rst_clk_156_156M_peripheral_aresetn 1 0 1 NJ 230
+preplace netloc rxn_2 1 0 2 NJ 700 NJ
+preplace netloc rxp_2 1 0 2 NJ 680 NJ
+preplace netloc s_axi_aclk_1 1 0 1 NJ 210
+preplace netloc s_axis_pause_tvalid_1 1 0 2 NJ 780 NJ
+preplace netloc sim_speedup_control_1 1 0 2 NJ 720 NJ
+preplace netloc ten_gig_eth_mac_ch0_mdc_1 1 1 1 370 150n
+preplace netloc ten_gig_eth_mac_ch0_mdio_out_1 1 1 1 340 190n
+preplace netloc ten_gig_eth_pcs_pma_ch0_drp_req_1 1 1 2 380 880 710
+preplace netloc ten_gig_eth_pcs_pma_ch0_mdio_out_1 1 1 1 350 170n
+preplace netloc txuserrdy_1 1 0 2 NJ 580 NJ
+preplace netloc txusrclk2_1 1 0 2 NJ 480 NJ
+preplace netloc txusrclk_1 1 0 2 NJ 460 NJ
+preplace netloc xlconstant_0_const 1 0 2 20 760 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch1_rxrecclk_out 1 2 1 NJ 470
+preplace netloc pma_pmd_type_1 1 0 2 40 820 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_core_to_gt_drp_1 1 1 2 380 240 710
+preplace netloc ten_gig_eth_mac_ch0_xgmii_xgmac_1 1 1 1 360 110n
+preplace netloc Conn1 1 0 1 NJ 90
+preplace netloc axis_data_fifo_tx_ch0_M_AXIS_1 1 0 1 NJ 50
+preplace netloc ten_gig_eth_mac_ch0_m_axis_rx_1 1 1 2 NJ 90 NJ
+preplace netloc Conn3 1 1 2 NJ 230 NJ
+preplace netloc s_axi_mac_1 1 0 1 NJ 70
+preplace netloc Conn2 1 1 2 NJ 210 NJ
+levelinfo -pg 1 0 200 550 730
+pagesize -pg 1 -db -bbox -sgen -190 -20 890 890
+"
+}
+

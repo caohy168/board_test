@@ -1,0 +1,18 @@
+13:37:17 **** Incremental Build of configuration Debug for project lwip_echo_server ****
+make all 
+'Building target: lwip_echo_server.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../lwip_echo_server_bsp/microblaze_0/lib -mlittle-endian -mcpu=v10.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "lwip_echo_server.elf"  ./src/echo.o ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/platform.o ./src/platform_mb.o ./src/platform_ppc.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+d:/xilinx/sdk/2019.1/gnu/microblaze/nt/bin/../lib/gcc/microblaze-xilinx-elf/8.2.0/../../../../microblaze-xilinx-elf/bin/ld.exe: ../../lwip_echo_server_bsp/microblaze_0/lib\libxil.a(xil_printf.o): in function `getnum':
+(.text.getnum+0x24): undefined reference to `__locale_ctype_ptr'
+d:/xilinx/sdk/2019.1/gnu/microblaze/nt/bin/../lib/gcc/microblaze-xilinx-elf/8.2.0/../../../../microblaze-xilinx-elf/bin/ld.exe: (.text.getnum+0x74): undefined reference to `__locale_ctype_ptr'
+d:/xilinx/sdk/2019.1/gnu/microblaze/nt/bin/../lib/gcc/microblaze-xilinx-elf/8.2.0/../../../../microblaze-xilinx-elf/bin/ld.exe: (.text.getnum+0x80): undefined reference to `__locale_ctype_ptr'
+d:/xilinx/sdk/2019.1/gnu/microblaze/nt/bin/../lib/gcc/microblaze-xilinx-elf/8.2.0/../../../../microblaze-xilinx-elf/bin/ld.exe: (.text.getnum+0xd4): undefined reference to `__locale_ctype_ptr'
+d:/xilinx/sdk/2019.1/gnu/microblaze/nt/bin/../lib/gcc/microblaze-xilinx-elf/8.2.0/../../../../microblaze-xilinx-elf/bin/ld.exe: ../../lwip_echo_server_bsp/microblaze_0/lib\libxil.a(xil_printf.o): in function `xil_printf':
+(.text.xil_printf+0x114): undefined reference to `__locale_ctype_ptr'
+d:/xilinx/sdk/2019.1/gnu/microblaze/nt/bin/../lib/gcc/microblaze-xilinx-elf/8.2.0/../../../../microblaze-xilinx-elf/bin/ld.exe: ../../lwip_echo_server_bsp/microblaze_0/lib\libxil.a(xil_printf.o):(.text.xil_printf+0x134): more undefined references to `__locale_ctype_ptr' follow
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:38: lwip_echo_server.elf] Error 1
+
+13:37:18 Build Finished (took 520ms)
+

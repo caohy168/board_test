@@ -1,0 +1,108 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.480741",
+   "Default View_TopLeft":"-944,0",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.21  2019-05-29 bk=1.5064 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port refclk_diff_port -pg 1 -lvl 0 -x 0 -y 90 -defaultsOSRD
+preplace port rx_statistics_ch0 -pg 1 -lvl 4 -x 1090 -y 850 -defaultsOSRD
+preplace port rx_statistics_ch1 -pg 1 -lvl 4 -x 1090 -y 80 -defaultsOSRD
+preplace port s_axis_pause_ch0 -pg 1 -lvl 0 -x 0 -y 130 -defaultsOSRD
+preplace port s_axis_pause_ch1 -pg 1 -lvl 0 -x 0 -y 690 -defaultsOSRD
+preplace port tx_statistics_ch0 -pg 1 -lvl 4 -x 1090 -y 870 -defaultsOSRD
+preplace port tx_statistics_ch1 -pg 1 -lvl 4 -x 1090 -y 100 -defaultsOSRD
+preplace port m_axis_rx_0 -pg 1 -lvl 4 -x 1090 -y 710 -defaultsOSRD
+preplace port s_axis_tx_0 -pg 1 -lvl 0 -x 0 -y 150 -defaultsOSRD
+preplace port s_axis_tx_1 -pg 1 -lvl 0 -x 0 -y 710 -defaultsOSRD
+preplace port m_axis_rx_1 -pg 1 -lvl 4 -x 1090 -y 60 -defaultsOSRD
+preplace port aux_resetn -pg 1 -lvl 0 -x 0 -y 330 -defaultsOSRD
+preplace port rx_resetdone_ch1 -pg 1 -lvl 4 -x 1090 -y 910 -defaultsOSRD
+preplace port tx_disable_ch1 -pg 1 -lvl 4 -x 1090 -y 930 -defaultsOSRD
+preplace port tx_resetdone_ch1 -pg 1 -lvl 4 -x 1090 -y 950 -defaultsOSRD
+preplace port txclk322_ch1 -pg 1 -lvl 4 -x 1090 -y 970 -defaultsOSRD
+preplace port txn_ch1 -pg 1 -lvl 4 -x 1090 -y 990 -defaultsOSRD
+preplace port txp_ch1 -pg 1 -lvl 4 -x 1090 -y 1010 -defaultsOSRD
+preplace port core_clk156_out -pg 1 -lvl 4 -x 1090 -y 140 -defaultsOSRD
+preplace port resetdone_ch0 -pg 1 -lvl 4 -x 1090 -y 300 -defaultsOSRD
+preplace port reset -pg 1 -lvl 0 -x 0 -y 170 -defaultsOSRD
+preplace port reset_n -pg 1 -lvl 0 -x 0 -y 230 -defaultsOSRD
+preplace port rxn_ch0 -pg 1 -lvl 0 -x 0 -y 270 -defaultsOSRD
+preplace port rxn_ch1 -pg 1 -lvl 0 -x 0 -y 990 -defaultsOSRD
+preplace port rxp_ch0 -pg 1 -lvl 0 -x 0 -y 290 -defaultsOSRD
+preplace port rxp_ch1 -pg 1 -lvl 0 -x 0 -y 1010 -defaultsOSRD
+preplace port sim_speedup_control_ch0 -pg 1 -lvl 0 -x 0 -y 350 -defaultsOSRD
+preplace port sim_speedup_control_ch1 -pg 1 -lvl 0 -x 0 -y 1030 -defaultsOSRD
+preplace port tx_disable_ch0 -pg 1 -lvl 4 -x 1090 -y 320 -defaultsOSRD
+preplace port txn_ch0 -pg 1 -lvl 4 -x 1090 -y 340 -defaultsOSRD
+preplace port txp_ch0 -pg 1 -lvl 4 -x 1090 -y 360 -defaultsOSRD
+preplace port mb_clk -pg 1 -lvl 0 -x 0 -y 310 -defaultsOSRD
+preplace portBus prtad_ch0 -pg 1 -lvl 0 -x 0 -y 210 -defaultsOSRD
+preplace portBus prtad_ch1 -pg 1 -lvl 0 -x 0 -y 850 -defaultsOSRD
+preplace portBus s_axi_aresetn -pg 1 -lvl 4 -x 1090 -y 490 -defaultsOSRD
+preplace portBus core_status_ch0 -pg 1 -lvl 4 -x 1090 -y 160 -defaultsOSRD
+preplace portBus core_status_ch1 -pg 1 -lvl 4 -x 1090 -y 890 -defaultsOSRD
+preplace inst mac_phy_ch0 -pg 1 -lvl 2 -x 570 -y 240 -defaultsOSRD
+preplace inst mac_phy_ch1 -pg 1 -lvl 2 -x 570 -y 930 -defaultsOSRD
+preplace inst system_ila_mac_phy2 -pg 1 -lvl 3 -x 970 -y 600 -defaultsOSRD
+preplace inst xlconstant_1b0 -pg 1 -lvl 1 -x 110 -y 1090 -defaultsOSRD
+preplace inst xlconstant_1b1 -pg 1 -lvl 1 -x 110 -y 910 -defaultsOSRD
+preplace inst xlconstant_3b101 -pg 1 -lvl 1 -x 110 -y 1290 -defaultsOSRD
+preplace inst xlconstant_8b0 -pg 1 -lvl 1 -x 110 -y 1190 -defaultsOSRD
+preplace netloc channel_1_rx_resetdone 1 2 2 NJ 910 NJ
+preplace netloc channel_1_tx_disable 1 2 2 NJ 930 NJ
+preplace netloc channel_1_tx_resetdone 1 2 2 NJ 950 NJ
+preplace netloc channel_1_txclk322 1 2 2 NJ 970 NJ
+preplace netloc channel_1_txn 1 2 2 NJ 990 NJ
+preplace netloc channel_1_txp 1 2 2 NJ 1010 NJ
+preplace netloc mac_phy_ch0_areset_clk156_out 1 1 2 400 510 830
+preplace netloc mac_phy_ch0_gtrxreset_out 1 1 2 310 480 770
+preplace netloc mac_phy_ch0_gttxreset_out 1 1 2 320 500 760
+preplace netloc mac_phy_ch0_qpll0lock_out 1 1 2 340 520 800
+preplace netloc mac_phy_ch0_qpll0outclk_out 1 1 2 350 530 790
+preplace netloc mac_phy_ch0_qpll0outrefclk_out 1 1 2 360 540 780
+preplace netloc mac_phy_ch0_reset_counter_done_out 1 1 2 390 570 820
+preplace netloc mac_phy_ch0_resetdone 1 2 2 NJ 300 NJ
+preplace netloc mac_phy_ch0_txuserrdy_out 1 1 2 330 560 750
+preplace netloc mac_phy_ch0_txusrclk2_out 1 1 2 380 600 810
+preplace netloc mac_phy_ch0_txusrclk_out 1 1 2 370 580 740
+preplace netloc prtad_1 1 0 2 NJ 210 NJ
+preplace netloc prtad_2 1 0 2 NJ 850 NJ
+preplace netloc reset_1 1 0 2 NJ 170 270
+preplace netloc reset_n_mac_1 1 0 3 NJ 230 250 610 760J
+preplace netloc rst_clk_156_156M_peripheral_aresetn 1 0 4 NJ 330 210 490 NJ 490 NJ
+preplace netloc rxn_1 1 0 2 NJ 270 NJ
+preplace netloc rxn_2 1 0 2 NJ 990 NJ
+preplace netloc rxp_1 1 0 2 NJ 290 NJ
+preplace netloc rxp_2 1 0 2 NJ 1010 NJ
+preplace netloc s_axis_pause_tdata_1 1 1 1 230 390n
+preplace netloc s_axis_pause_tvalid_1 1 1 1 240 370n
+preplace netloc sim_speedup_control_1 1 0 2 NJ 350 NJ
+preplace netloc sim_speedup_control_1_1 1 0 2 NJ 1030 200J
+preplace netloc ten_gig_eth_pcs_pma_ch0_tx_disable 1 2 2 NJ 320 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_txn 1 2 2 NJ 340 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_txp 1 2 2 NJ 360 NJ
+preplace netloc xlconstant_0_const 1 1 1 280 250n
+preplace netloc mac_phy_ch0_core_status 1 2 2 NJ 160 NJ
+preplace netloc mac_phy_ch1_core_status 1 2 2 NJ 890 NJ
+preplace netloc microblaze_0_Clk 1 0 2 NJ 310 220
+preplace netloc mac_phy_ch0_core_clk156_out 1 1 3 300 470 840 140 NJ
+preplace netloc xlconstant_3b101_dout 1 1 1 370J 1190n
+preplace netloc s_axis_pause_1_1 1 0 2 NJ 690 NJ
+preplace netloc mac_phy_ch1_rx_statistics 1 2 2 NJ 850 NJ
+preplace netloc mac_phy_ch0_tx_statistics 1 2 2 NJ 100 NJ
+preplace netloc mac_phy_ch1_tx_statistics 1 2 2 NJ 870 NJ
+preplace netloc mac_phy_ch0_rx_statistics 1 2 2 NJ 80 NJ
+preplace netloc mac_phy_ch0_m_axis_rx 1 2 2 850 60 NJ
+preplace netloc s_axis_tx_1_1 1 0 3 NJ 710 260 590 NJ
+preplace netloc s_axis_tx_0_1 1 0 3 NJ 150 290 550 NJ
+preplace netloc mac_phy_ch1_m_axis_rx 1 2 2 850 710 NJ
+preplace netloc s_axis_pause_1 1 0 2 NJ 130 NJ
+preplace netloc refclk_diff_port_1 1 0 2 NJ 90 NJ
+levelinfo -pg 1 0 110 570 970 1090
+pagesize -pg 1 -db -bbox -sgen -220 0 1280 1350
+"
+}
+{
+   "da_clkrst_cnt":"4"
+}

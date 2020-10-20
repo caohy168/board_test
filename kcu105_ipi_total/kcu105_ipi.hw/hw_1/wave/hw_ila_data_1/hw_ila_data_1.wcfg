@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/project/ethnet/kcu105_ipi_total/kcu105_ipi.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="557338fs"></ZoomStartTime>
+      <ZoomEndTime time="572635fs"></ZoomEndTime>
+      <Cursor1Time time="628000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="227"></NameColumnWidth>
+      <ValueColumnWidth column_width="60"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_addr_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_addr_1[12:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_BRAM_addr_1[12:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_din_1" type="array">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_din_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_BRAM_din_1[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_dout_1" type="array">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_dout_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_BRAM_dout_1[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_en_1" type="logic">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_en_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_BRAM_en_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_rst_1" type="logic">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_rst_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_BRAM_rst_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_we_1" type="array">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_0_BRAM_we_1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_BRAM_we_1[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_addr_1" type="logic">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_addr_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_1_BRAM_addr_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_din_1" type="logic">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_din_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_1_BRAM_din_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_dout_1" type="logic">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_dout_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_1_BRAM_dout_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_en_1" type="logic">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_en_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_1_BRAM_en_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_rst_1" type="logic">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_rst_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_1_BRAM_rst_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_we_1" type="logic">
+      <obj_property name="ElementShortName">system_wrapper/system_i/system_ila_0/inst/SLOT_1_BRAM_we_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_1_BRAM_we_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

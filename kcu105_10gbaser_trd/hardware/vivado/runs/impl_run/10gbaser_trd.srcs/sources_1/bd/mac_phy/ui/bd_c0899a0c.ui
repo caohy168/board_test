@@ -1,0 +1,86 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 6.8.11  2018-08-07 bk=1.4403 VDI=40 GEI=35 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port s_axi_aclk -pg 1 -y 200 -defaultsOSRD
+preplace port clk156 -pg 1 -y 100 -defaultsOSRD
+preplace port tx_disable -pg 1 -y 660 -defaultsOSRD
+preplace port resetdone -pg 1 -y 300 -defaultsOSRD
+preplace port rx_statistics -pg 1 -y 220 -defaultsOSRD
+preplace port txusrclk_out -pg 1 -y 400 -defaultsOSRD
+preplace port txusrclk2_out -pg 1 -y 420 -defaultsOSRD
+preplace port txn -pg 1 -y 380 -defaultsOSRD
+preplace port sim_speedup_control -pg 1 -y 530 -defaultsOSRD
+preplace port s_axi -pg 1 -y 60 -defaultsOSRD
+preplace port txuserrdy_out -pg 1 -y 520 -defaultsOSRD
+preplace port qpll0outclk_out -pg 1 -y 580 -defaultsOSRD
+preplace port gtrxreset_out -pg 1 -y 500 -defaultsOSRD
+preplace port areset_clk156_out -pg 1 -y 460 -defaultsOSRD
+preplace port tx_statistics -pg 1 -y 200 -defaultsOSRD
+preplace port s_axis_pause -pg 1 -y 80 -defaultsOSRD
+preplace port txp -pg 1 -y 360 -defaultsOSRD
+preplace port reset_counter_done_out -pg 1 -y 540 -defaultsOSRD
+preplace port core_clk156_out -pg 1 -y 320 -defaultsOSRD
+preplace port rx_axis_aresetn -pg 1 -y 140 -defaultsOSRD
+preplace port qpll0outrefclk_out -pg 1 -y 600 -defaultsOSRD
+preplace port s_axis_tx -pg 1 -y 40 -defaultsOSRD
+preplace port rxn -pg 1 -y 510 -defaultsOSRD
+preplace port areset -pg 1 -y 120 -defaultsOSRD
+preplace port gttxreset_out -pg 1 -y 480 -defaultsOSRD
+preplace port m_axis_rx -pg 1 -y 80 -defaultsOSRD
+preplace port rxp -pg 1 -y 490 -defaultsOSRD
+preplace port qpll0lock_out -pg 1 -y 560 -defaultsOSRD
+preplace port refclk_diff_port -pg 1 -y 410 -defaultsOSRD
+preplace portBus core_status -pg 1 -y 620 -defaultsOSRD
+preplace portBus tx_ifg_delay -pg 1 -y 160 -defaultsOSRD
+preplace portBus tx_fault -pg 1 -y 590 -defaultsOSRD
+preplace portBus s_axi_aresetn -pg 1 -y 220 -defaultsOSRD
+preplace portBus prtad -pg 1 -y 550 -defaultsOSRD
+preplace portBus rx_dcm_locked -pg 1 -y 240 -defaultsOSRD
+preplace inst ten_gig_eth_mac_ch0 -pg 1 -lvl 1 -y 160 -defaultsOSRD
+preplace inst ten_gig_eth_pcs_pma_ch0 -pg 1 -lvl 2 -y 470 -defaultsOSRD
+preplace netloc axis_data_fifo_tx_ch0_M_AXIS 1 0 1 NJ
+preplace netloc Conn1 1 0 1 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_gttxreset_out 1 2 1 NJ
+preplace netloc microblaze_0_axi_periph_M04_AXI 1 0 1 NJ
+preplace netloc Conn2 1 0 2 NJ 410 NJ
+preplace netloc ten_gig_eth_mac_ch0_xgmii_xgmac 1 1 1 370
+preplace netloc ten_gig_eth_pcs_pma_ch0_txusrclk2_out 1 2 1 NJ
+preplace netloc s_axi_aclk_1 1 0 1 NJ
+preplace netloc Conn3 1 1 2 NJ 200 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_qpll0outclk_out 1 2 1 NJ
+preplace netloc rxp_1 1 0 2 NJ 490 NJ
+preplace netloc rst_clk_156_156M_peripheral_aresetn 1 0 1 NJ
+preplace netloc hdp_patgen_0_tx_ifg_delay 1 0 1 NJ
+preplace netloc Conn4 1 1 2 360J 210 760J
+preplace netloc ten_gig_eth_pcs_pma_ch0_core_to_gt_drp 1 1 2 400 220 750
+preplace netloc ten_gig_eth_pcs_pma_ch0_core_status 1 2 1 NJ
+preplace netloc sim_speedup_control_1 1 0 2 NJ 530 NJ
+preplace netloc rxn_1 1 0 2 NJ 510 NJ
+preplace netloc microblaze_0_Clk 1 0 1 50
+preplace netloc ten_gig_eth_pcs_pma_ch0_txusrclk_out 1 2 1 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_txn 1 2 1 NJ
+preplace netloc reset_mac 1 0 2 30 400 360J
+preplace netloc prtad_1 1 0 2 NJ 550 NJ
+preplace netloc ten_gig_eth_mac_ch0_m_axis_rx 1 1 2 NJ 80 NJ
+preplace netloc xlconstant_0_const 1 0 2 20 570 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_resetdone 1 2 1 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_mdio_out 1 1 1 350
+preplace netloc ten_gig_eth_pcs_pma_ch0_core_clk156_out 1 1 2 390 180 770
+preplace netloc ten_gig_eth_pcs_pma_ch0_txp 1 2 1 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_qpll0outrefclk_out 1 2 1 NJ
+preplace netloc ten_gig_eth_mac_ch0_mdio_out 1 1 1 340
+preplace netloc ten_gig_eth_pcs_pma_ch0_txuserrdy_out 1 2 1 NJ
+preplace netloc s_axis_pause_tvalid_1 1 0 2 NJ 590 NJ
+preplace netloc reset_n_mac_1 1 0 1 40
+preplace netloc ten_gig_eth_pcs_pma_ch0_drp_req 1 1 2 400 720 750
+preplace netloc ten_gig_eth_pcs_pma_ch0_areset_clk156_out 1 2 1 NJ
+preplace netloc ten_gig_eth_mac_ch0_mdc 1 1 1 380
+preplace netloc ten_gig_eth_pcs_pma_ch0_qpll0lock_out 1 2 1 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_tx_disable 1 2 1 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_reset_counter_done_out 1 2 1 NJ
+preplace netloc ten_gig_eth_pcs_pma_ch0_gtrxreset_out 1 2 1 NJ
+levelinfo -pg 1 0 200 580 790 -top -20 -bot 730
+"
+}
+0

@@ -1,0 +1,6 @@
+2020-05-27T13:50:57.228833500255-13:50:57 **** Incremental Build of configuration Debug for project tpu_sever_system ****
+000-make all 
+000-Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+00255-
+13:50:57 Build Finished (took 196ms)
+

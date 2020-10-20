@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# updatemem v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Fri Oct 18 14:49:24 2019
+# Process ID: 9752
+# Current directory: D:/kcu105_10gbaser_trd/hardware/vivado
+# Command line: updatemem.exe -mode batch -source D:/Xilinx/Vivado/2017.3/scripts/updatemem/main.tcl -notrace -tclargs -meminfo runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_top.mmi -data runs/impl_run/10gbaser_trd.sdk/kcu105_10gbaser_top/Debug/kcu105_10gbaser_top.elf -proc mac_phy_wrapper_i/mac_phy_i/microblaze_sub_system/microblaze_0 -bit runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_top.bit -out runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_download.bit -force
+# Log file: D:/kcu105_10gbaser_trd/hardware/vivado/updatemem.log
+# Journal file: D:/kcu105_10gbaser_trd/hardware/vivado\updatemem.jou
+#-----------------------------------------------------------
+source D:/Xilinx/Vivado/2017.3/scripts/updatemem/main.tcl -notrace
+Command: update_mem -meminfo runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_top.mmi -data runs/impl_run/10gbaser_trd.sdk/kcu105_10gbaser_top/Debug/kcu105_10gbaser_top.elf -proc mac_phy_wrapper_i/mac_phy_i/microblaze_sub_system/microblaze_0 -bit runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_top.bit -out runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_download.bit -force
+Loading bitfile runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_top.bit
+Loading data files...
+Updating memory content...
+Creating bitstream...
+Writing bitstream runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_download.bit...
+0 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+update_mem completed successfully
+update_mem: Time (s): cpu = 00:00:18 ; elapsed = 00:00:20 . Memory (MB): peak = 229.270 ; gain = 175.918
+INFO: [Common 17-206] Exiting updatemem at Fri Oct 18 14:49:44 2019...

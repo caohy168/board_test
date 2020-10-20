@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/project/ethnet/kcu105_ipi_total/kcu105_ipi.hw/hw_1/wave/hw_ila_data_2/hw_ila_data_2.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="130883fs"></ZoomEndTime>
+      <Cursor1Time time="731000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="227"></NameColumnWidth>
+      <ValueColumnWidth column_width="60"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="tpu_interact_system/BRAM_PORTB_0_addr" type="array">
+      <obj_property name="ElementShortName">tpu_interact_system/BRAM_PORTB_0_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BRAM_PORTB_0_addr[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu_interact_system/s_axi_aclk" type="logic">
+      <obj_property name="ElementShortName">tpu_interact_system/s_axi_aclk</obj_property>
+      <obj_property name="ObjectShortName">s_axi_aclk</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu_interact_system/BRAM_PORTB_0_din" type="array">
+      <obj_property name="ElementShortName">tpu_interact_system/BRAM_PORTB_0_din[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BRAM_PORTB_0_din[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu_interact_system/BRAM_PORTB_0_dout" type="array">
+      <obj_property name="ElementShortName">tpu_interact_system/BRAM_PORTB_0_dout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BRAM_PORTB_0_dout[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu_interact_system/BRAM_PORTB_0_en" type="logic">
+      <obj_property name="ElementShortName">tpu_interact_system/BRAM_PORTB_0_en</obj_property>
+      <obj_property name="ObjectShortName">BRAM_PORTB_0_en</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu_interact_system/BRAM_PORTB_0_rst" type="logic">
+      <obj_property name="ElementShortName">tpu_interact_system/BRAM_PORTB_0_rst</obj_property>
+      <obj_property name="ObjectShortName">BRAM_PORTB_0_rst</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu_interact_system/BRAM_PORTB_0_we" type="array">
+      <obj_property name="ElementShortName">tpu_interact_system/BRAM_PORTB_0_we[3:0]</obj_property>
+      <obj_property name="ObjectShortName">BRAM_PORTB_0_we[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu_interact_system/read_bram_state" type="array">
+      <obj_property name="ElementShortName">tpu_interact_system/read_bram_state[7:0]</obj_property>
+      <obj_property name="ObjectShortName">read_bram_state[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu_interact_system/read_wait_short" type="array">
+      <obj_property name="ElementShortName">tpu_interact_system/read_wait_short[7:0]</obj_property>
+      <obj_property name="ObjectShortName">read_wait_short[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu_interact_system/read_wait_long" type="array">
+      <obj_property name="ElementShortName">tpu_interact_system/read_wait_long[31:0]</obj_property>
+      <obj_property name="ObjectShortName">read_wait_long[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

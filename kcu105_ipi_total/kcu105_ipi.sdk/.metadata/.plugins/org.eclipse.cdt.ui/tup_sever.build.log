@@ -1,0 +1,29 @@
+14:22:53 **** Auto Build of configuration Debug for project tup_sever ****
+make all 
+'Building file: ../src/echo.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -I../../tup_sever_bsp/microblaze_0/include -mlittle-endian -mcpu=v10.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:180:7: warning: unused variable 'echo_button' [-Wunused-variable]
+  char echo_button[64]="PRESS WEST BUTTON";
+       ^~~~~~~~~~~
+../src/echo.c: In function 'check_button':
+../src/echo.c:162:1: warning: control reaches end of non-void function [-Wreturn-type]
+ };
+ ^
+'Finished building: ../src/echo.c'
+' '
+'Building target: tup_sever.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../tup_sever_bsp/microblaze_0/lib -mlittle-endian -mcpu=v10.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "tup_sever.elf"  ./src/echo.o ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/platform.o ./src/platform_mb.o ./src/platform_ppc.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: tup_sever.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size tup_sever.elf  |tee "tup_sever.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 144542	   1980	3960742	4107264	 3eac00	tup_sever.elf
+'Finished building: tup_sever.elf.size'
+' '
+
+14:22:55 Build Finished (took 2s.459ms)
+

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/dell/Desktop/board_test/kcu105_10gbaser_trd/hardware/vivado/runs/impl_run/10gbaser_trd.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="239fs"></ZoomStartTime>
+      <ZoomEndTime time="257fs"></ZoomEndTime>
+      <Cursor1Time time="245fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="254"></NameColumnWidth>
+      <ValueColumnWidth column_width="121"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject fp_name="bb_rx_axis_tdata0" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tdata0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tdata0[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tkeep0" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tkeep0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tkeep0[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tlast0" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tlast0</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tlast0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tready0" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tready0</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tready0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tuser0" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tuser0</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tuser0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tvalid0" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tvalid0</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tvalid0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tdata0" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tdata0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tdata0[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tkeep0" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tkeep0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tkeep0[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tlast0" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tlast0</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tlast0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tready0" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tready0</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tready0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tuser0" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tuser0</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tuser0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tvalid0" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tvalid0</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tvalid0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tdata1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tdata1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tdata1[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tkeep1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tkeep1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tkeep1[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tlast1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tlast1</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tlast1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tready1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tready1</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tready1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tuser1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tuser1</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tuser1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_rx_axis_tvalid1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_rx_axis_tvalid1</obj_property>
+      <obj_property name="ObjectShortName">bb_rx_axis_tvalid1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tdata1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tdata1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tdata1[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tkeep1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tkeep1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tkeep1[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tlast1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tlast1</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tlast1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tready1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tready1</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tready1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tuser1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tuser1</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tuser1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="bb_tx_axis_tvalid1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">bb_tx_axis_tvalid1</obj_property>
+      <obj_property name="ObjectShortName">bb_tx_axis_tvalid1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

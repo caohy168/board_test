@@ -1,0 +1,71 @@
+$date
+        2019-Nov-05 20:02:55
+$end
+$version
+        Vivado v2018.3 (64-bit)
+$end
+$timescale
+        1ps
+$end
+$scope module dut $end
+$var reg 64 " axi_stream_gen_mon_0/rx_axis_tdata [63:0] $end
+$var reg 8 b axi_stream_gen_mon_0/rx_axis_tkeep [7:0] $end
+$var reg 1 j axi_stream_gen_mon_0/rx_axis_tvalid $end
+$var reg 1 k axi_stream_gen_mon_0/rx_axis_tlast $end
+$var reg 1 l axi_stream_gen_mon_0/rx_axis_tuser $end
+$var reg 1 m axi_stream_gen_mon_0/rx_axis_tready $end
+$var reg 64 n axi_stream_gen_mon_0/tx_axis_tdata [63:0] $end
+$var reg 8 P" axi_stream_gen_mon_0/tx_axis_tkeep [7:0] $end
+$var reg 1 X" axi_stream_gen_mon_0/tx_axis_tvalid $end
+$var reg 1 Y" axi_stream_gen_mon_0/tx_axis_tlast $end
+$var reg 1 Z" axi_stream_gen_mon_0/tx_axis_tuser $end
+$var reg 1 [" axi_stream_gen_mon_0/tx_axis_tready_1 $end
+$var reg 64 \" axi_stream_gen_mon_0/tx_axis_tdata_lb [63:0] $end
+$var reg 8 ># axi_stream_gen_mon_0/tx_axis_tkeep_lb [7:0] $end
+$var reg 1 F# axi_stream_gen_mon_0/tx_axis_tvalid_lb $end
+$var reg 1 G# axi_stream_gen_mon_0/tx_axis_tlast_lb $end
+$var reg 1 H# axi_stream_gen_mon_0/tx_axis_tuser_lb $end
+$var reg 1 I# axi_stream_gen_mon_0/rx_axis_tready_lb $end
+$var reg 64 J# axi_stream_gen_mon_0/tx_axis_tdata_g [63:0] $end
+$var reg 8 ,$ axi_stream_gen_mon_0/tx_axis_tkeep_g [7:0] $end
+$var reg 1 4$ axi_stream_gen_mon_0/tx_axis_tvalid_g $end
+$var reg 1 5$ axi_stream_gen_mon_0/tx_axis_tlast_g $end
+$var reg 1 6$ axi_stream_gen_mon_0/tx_axis_tuser_g $end
+$var reg 1 7$ axi_stream_gen_mon_0/tx_axis_tready $end
+$var reg 1 8$ _TRIGGER $end
+$var reg 1 9$ _WINDOW $end
+$var reg 1 :$ _GAP $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 "
+b0 b
+0j
+0k
+0l
+1m
+b0 n
+b0 P"
+0X"
+0Y"
+0Z"
+1["
+b0 \"
+b0 >#
+0F#
+0G#
+0H#
+1I#
+b1000100010001000000000000000000000000000000000 J#
+b11111111 ,$
+04$
+05$
+06$
+17$
+08$
+19$
+0:$
+$end
+#1024
+18$

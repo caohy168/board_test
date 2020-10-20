@@ -1,0 +1,45 @@
+$date
+        2019-Oct-23 15:31:18
+$end
+$version
+        Vivado v2017.3 (64-bit)
+$end
+$timescale
+        1ps
+$end
+$scope module dut $end
+$var reg 64 " mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_0_axis_tdata [63:0] $end
+$var reg 8 b mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_0_axis_tkeep [7:0] $end
+$var reg 1 j mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_0_axis_tuser $end
+$var reg 1 k mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_0_axis_tvalid $end
+$var reg 1 l mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_0_axis_tready $end
+$var reg 1 m mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_0_axis_tlast $end
+$var reg 64 n mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_1_axis_tdata [63:0] $end
+$var reg 8 P" mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_1_axis_tkeep [7:0] $end
+$var reg 1 X" mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_1_axis_tuser $end
+$var reg 1 Y" mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_1_axis_tvalid $end
+$var reg 1 Z" mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_1_axis_tlast $end
+$var reg 64 [" mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_2_axis_tdata [63:0] $end
+$var reg 8 =# mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_2_axis_tkeep [7:0] $end
+$var reg 1 E# mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_2_axis_tuser $end
+$var reg 1 F# mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_2_axis_tvalid $end
+$var reg 1 G# mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_2_axis_tready $end
+$var reg 1 H# mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_2_axis_tlast $end
+$var reg 64 I# mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_3_axis_tdata [63:0] $end
+$var reg 8 +$ mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_3_axis_tkeep [7:0] $end
+$var reg 1 3$ mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_3_axis_tuser $end
+$var reg 1 4$ mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_3_axis_tvalid $end
+$var reg 1 5$ mac_phy_wrapper_i/mac_phy_i/system_ila_mac_phy2/inst/net_slot_3_axis_tlast $end
+$var reg 3 6$ Interface__i4_s0___s_axis_tx_0_1_ [2:0] $end
+$var reg 3 9$ Interface__i4_s1___mac_phy_ch0_m_axis_rx_ [2:0] $end
+$var reg 3 <$ Interface__i4_s2___s_axis_tx_1_1_ [2:0] $end
+$var reg 3 ?$ Interface__i4_s3___mac_phy_ch1_m_axis_rx_ [2:0] $end
+$var reg 3 B$ T_Channel__i4_s0___s_axis_tx_0_1_ [2:0] $end
+$var reg 3 E$ T_Channel__i4_s1___mac_phy_ch0_m_axis_rx_ [2:0] $end
+$var reg 3 H$ T_Channel__i4_s2___s_axis_tx_1_1_ [2:0] $end
+$var reg 3 K$ T_Channel__i4_s3___mac_phy_ch1_m_axis_rx_ [2:0] $end
+$var reg 1 N$ _TRIGGER $end
+$var reg 1 O$ _WINDOW $end
+$var reg 1 P$ _GAP $end
+$upscope $end
+$enddefinitions $end

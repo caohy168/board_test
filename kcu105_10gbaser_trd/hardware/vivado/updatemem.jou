@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# updatemem v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Nov  5 15:31:39 2019
+# Process ID: 25360
+# Current directory: D:/kcu105_10gbaser_trd/hardware/vivado
+# Command line: updatemem.exe -mode batch -source D:/Xilinx/Vivado/2018.3/scripts/updatemem/main.tcl -notrace -tclargs -meminfo runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_top.mmi -data runs/impl_run/10gbaser_trd.sdk/kcu105_10gbaser_top/Debug/kcu105_10gbaser_top.elf -proc mac_phy_wrapper_i/mac_phy_i/microblaze_sub_system/microblaze_0 -bit runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_top.bit -out runs/impl_run/10gbaser_trd.runs/impl_1/kcu105_10gbaser_download.bit -force
+# Log file: D:/kcu105_10gbaser_trd/hardware/vivado/updatemem.log
+# Journal file: D:/kcu105_10gbaser_trd/hardware/vivado\updatemem.jou
+#-----------------------------------------------------------
+source D:/Xilinx/Vivado/2018.3/scripts/updatemem/main.tcl -notrace

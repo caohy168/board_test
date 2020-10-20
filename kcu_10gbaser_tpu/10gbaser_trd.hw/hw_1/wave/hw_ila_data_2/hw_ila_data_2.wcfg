@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/dell/Desktop/board_test/kcu_10gbaser_tpu/10gbaser_trd.hw/hw_1/wave/hw_ila_data_2/hw_ila_data_2.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="706fs"></ZoomEndTime>
+      <Cursor1Time time="284fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="219"></NameColumnWidth>
+      <ValueColumnWidth column_width="61"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="tpu/layer1/layer1_receive/crc_detector_tready" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/crc_detector_tready[0:0]</obj_property>
+      <obj_property name="ObjectShortName">crc_detector_tready[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/deintrlv_data[0]" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/deintrlv_data[0][7:0]</obj_property>
+      <obj_property name="ObjectShortName">deintrlv_data[0][7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/deintrlv_data_tlast" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/deintrlv_data_tlast[0:0]</obj_property>
+      <obj_property name="ObjectShortName">deintrlv_data_tlast[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/deintrlv_data_tvalid" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/deintrlv_data_tvalid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">deintrlv_data_tvalid[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/deintrlv_tready" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/deintrlv_tready[0:0]</obj_property>
+      <obj_property name="ObjectShortName">deintrlv_tready[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/descrambler_data[0]" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/descrambler_data[0][7:0]</obj_property>
+      <obj_property name="ObjectShortName">descrambler_data[0][7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/descrambler_data_tlast" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/descrambler_data_tlast[0:0]</obj_property>
+      <obj_property name="ObjectShortName">descrambler_data_tlast[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/descrambler_data_tvalid" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/descrambler_data_tvalid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">descrambler_data_tvalid[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/descrambler_tready" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/descrambler_tready[0:0]</obj_property>
+      <obj_property name="ObjectShortName">descrambler_tready[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/eqam_data[0]" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/eqam_data[0][7:0]</obj_property>
+      <obj_property name="ObjectShortName">eqam_data[0][7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/eqam_data_tlast" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/eqam_data_tlast[0:0]</obj_property>
+      <obj_property name="ObjectShortName">eqam_data_tlast[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/eqam_data_tvalid" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/eqam_data_tvalid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">eqam_data_tvalid[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/mac_deblock_data[0]" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/mac_deblock_data[0][7:0]</obj_property>
+      <obj_property name="ObjectShortName">mac_deblock_data[0][7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/mac_deblock_data_tlast" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/mac_deblock_data_tlast[0:0]</obj_property>
+      <obj_property name="ObjectShortName">mac_deblock_data_tlast[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/mac_deblock_data_tvalid" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/mac_deblock_data_tvalid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">mac_deblock_data_tvalid[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/mac_deblock_tready" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/mac_deblock_tready[0:0]</obj_property>
+      <obj_property name="ObjectShortName">mac_deblock_tready[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/rs_decoder_data[0]" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/rs_decoder_data[0][7:0]</obj_property>
+      <obj_property name="ObjectShortName">rs_decoder_data[0][7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/rs_decoder_data_tlast" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/rs_decoder_data_tlast[0:0]</obj_property>
+      <obj_property name="ObjectShortName">rs_decoder_data_tlast[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/rs_decoder_data_tvalid" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/rs_decoder_data_tvalid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">rs_decoder_data_tvalid[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="tpu/layer1/layer1_receive/rs_decoder_tready" type="array">
+      <obj_property name="ElementShortName">tpu/layer1/layer1_receive/rs_decoder_tready[0:0]</obj_property>
+      <obj_property name="ObjectShortName">rs_decoder_tready[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

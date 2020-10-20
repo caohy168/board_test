@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="_ide/bitstream/tpu_top.bit" key="tpu_sever-bitFile"/>
+	<item value="Local" key="tpu_sever-target"/>
+	<item value="false" key="tpu_sever-skip_rev_check"/>
+	<item value="Auto Detect" key="tpu_sever-device"/>
+	<item value="bootloop" key="tpu_sever-microblaze_0-initElf"/>
+	<item value="tpu_sever" key="programfpga.sdxproject"/>
+	<item value="false" key="tpu_sever-partial_bit"/>
+	<item value="_ide/bitstream/tpu_top.mmi" key="tpu_sever-bmmFile"/>
+</section>
