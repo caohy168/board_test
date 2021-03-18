@@ -1,2 +1,2 @@
-20200612\将ila加到了radio receive模块中，调试中。
-20200619\kcu_10gbaser_tpu 10g光回路ila有数据输入输出。
+20200612\put the ila into the radio receive module。
+20200619\kcu_10gbaser_tpu 10g the MAC use ila can check the input and output。
